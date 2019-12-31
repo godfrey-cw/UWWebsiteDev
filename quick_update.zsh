@@ -5,7 +5,7 @@ bundle exec jekyll build && \
     git push;
 
 cp -r ./_site/* ~/Documents/Web/UWWebsite/;
-cp -r ./_site/* ~/Documents/Web/godfrey-cw.github.io/;
+cp -r ./_site/* ~/Documents/Web/godfrey-cw.github.io/~cgodfrey/;
 
 cd ~/Documents/Web/UWWebsite/;
 git add . && \
