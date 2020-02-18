@@ -217,4 +217,4 @@ plt.ylabel('y')
 ![png](./output_18_1.png)
 
 
-### What other equations should we plug into this machine?!
+<!-- ### What other equations should we plug into this machine?! -->

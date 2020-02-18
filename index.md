@@ -6,8 +6,8 @@ layout: home
 title: Home
 ---
 
-I am currently a PhD student in the University of Washington math department studying
-algebraic geometry. 
+I am currently a PhD student in the University of Washington math
+department studying algebraic geometry.
 
 # Research
 
