@@ -10,7 +10,7 @@
   {%- endif -%}
   <!-- not working? -->
   <script src="{{ "/assets/js/mathjax-config.js" | relative_url }}" id="MathJax-config" defer></script>
-  <script src="{{ "/assets/js/mathjax/tex-chtml-full.js" | relative_url }}" id="MathJax-script" defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" id="MathJax-script" defer></script>
   <!-- allows redirecting see https://stackoverflow.com/questions/33393953/jekyll-redirect-entire-directory -->
   {% if page.redirect %}<meta http-equiv="refresh" content="0; url={{ page.redirect }}">{% endif %}
 </head>
