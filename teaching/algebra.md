@@ -23,4 +23,3 @@ email or stop by office hours as soon as possible.
 
 - [WikiBook](https://en.wikibooks.org/wiki/LaTeX)
 - [Overleaf](https://www.overleaf.com/learn) 
-

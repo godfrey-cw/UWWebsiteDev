@@ -32,10 +32,4 @@ National Science Foundation under Grant No. 1440140. During the
 academic year of 2018-2019 I was supported by the University of
 Washington Department of Mathematics Graduate Research Fellowship.
 
-
-
 <!-- {% bibliography --cited %} -->
-
-
-
-
