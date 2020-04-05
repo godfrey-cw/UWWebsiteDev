@@ -80,3 +80,4 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - quick_update.zsh
+
