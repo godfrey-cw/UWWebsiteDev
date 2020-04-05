@@ -70,7 +70,7 @@ href="https://www.washington.edu/maps/#!/tho">THO</a> 119 </td>
 ### Euler's method
 
 - [Tutorial](./euler_method.html) and
-- <a href="/assets/notebooks/euler_method.ipynb" download>Jupyter notebook</a> 
+- <a href="/~cgodfrey/assets/notebooks/euler_method.ipynb" download>Jupyter notebook</a> 
 
 ### [Haim's notes on complex numbers](./HaimNotes.pdf)
 
