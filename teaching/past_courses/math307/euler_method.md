@@ -6,17 +6,25 @@ Title: Euler's method
 
 ## The basic observation
 
-The reality is, most differential equations are either practically impossible or very tedious to solve by hand. Hence the importance of computational methods to solve ODEs. 
+The reality is, most differential equations are either practically impossible or
+very tedious to solve by hand. Hence the importance of computational methods to
+solve ODEs. 
 
 Way back in the day, Euler devised an algorithm to solve an initial
 value problem of the form 
-$$y' = f(t, y), \, \, \text{ with } \, \, y(t_0) = y_0$$ 
+$$
+y' = f(t, y), \, \, \text{ with } \, \, y(t_0) = y_0
+$$ 
 Here's the idea: if $\Delta t$ is a _small_ time interval starting at
 $t_0$, and $t_1 = t_0+\Delta t$ (so that $\Delta t = t_1 - t_0$) then
 from the definition of the derivative we should have 
-$$\frac{y(t_1) - y(t_0)}{\Delta t} \approx y'(t_0) = f(t_0, y_0)$$ 
+$$
+\frac{y(t_1) - y(t_0)}{\Delta t} \approx y'(t_0) = f(t_0, y_0)
+$$ 
 Rearranging, this says 
-$$y(t_1) \approx y_0 + f(t_0, y_0) \Delta t$$ 
+$$
+y(t_1) \approx y_0 + f(t_0, y_0) \Delta t
+$$ 
 Set $y_1 = y_0 + f(t_0, y_0) \Delta t$.
 
 ## Iterating on the basic observation
@@ -24,7 +32,8 @@ Set $y_1 = y_0 + f(t_0, y_0) \Delta t$.
 Now we can repeat this process, but starting with $t_1$ and $y_1$
 (instead of $t_0$ and $y_0$). We'll get $t_2 = t_1+ \Delta t$, and 
 $$y_2 = y_1 + f(t_1, y_1) \Delta t$$ 
-And so on  - what we're doing is iterating on the equa$$y_{i+1} = y_i + f(t_i, y_i) (t_{i+1} - t_i)$$ 
+And so on  - what we're doing is iterating on the equation 
+$$y_{i+1} = y_i + f(t_i, y_i) (t_{i+1} - t_i)$$ 
 
 As an algorithm, Euler's method takes as input a differential equation $y' = f(t, y)$, a list of times $t_0, t_1, \dots, t_n$, and an initial condition $y(t_0) = y_0$. It then uses the equation $y_{i+1} = y_i + f(t_i, y_i) (t_{i+1} - t_i)$ to produce estimates $y(t_1) \approx y_1, \dots, y(t_n) \approx y_n$  
 
