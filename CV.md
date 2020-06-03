@@ -4,7 +4,7 @@
 
 layout: cv
 title: CV
-redirect: assets/pdfs/CV.pdf
+redirect: assets/pdfs/GodfreyCV.pdf
 
 ---
 
