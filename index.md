@@ -21,8 +21,9 @@ interests including:
   
 - positive-characteristic behavior, and
 
-- infinitesimal deformations of MMP singularities<!-- , following {%
-  cite altmannDualizingSheafFirstorder2016 %}. -->
+- infinitesimal deformations of MMP singularities
+- <!-- , following {% cite
+  altmannDualizingSheafFirstorder2016 %}. -->
   
 # Acknowledgments
 
@@ -31,5 +32,6 @@ Sciences Research Institute in Berkeley, California, supported by the
 National Science Foundation under Grant No. 1440140. During the
 academic year of 2018-2019 I was supported by the University of
 Washington Department of Mathematics Graduate Research Fellowship.
+
 
 <!-- {% bibliography --cited %} -->

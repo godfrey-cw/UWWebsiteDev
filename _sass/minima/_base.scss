@@ -191,7 +191,20 @@ pre {
   }
 }
 
+// pdfs stolen from https://jsfiddle.net/omarjuvera/8zkunqxy/2/
+.pdf-wrapper {
+  position: relative;
+	padding-bottom: 125%; /* 16:9 */
+		height: 0;
+}
 
+.pdf-wrapper iframe {
+  position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
 
 /**
  * Clearfix
