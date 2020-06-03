@@ -21,8 +21,8 @@ interests including:
   
 - positive-characteristic behavior, and
 
-- infinitesimal deformations of MMP singularities
-- <!-- , following {% cite
+- infinitesimal deformations of MMP singularities 
+ <!-- , following {% cite
   altmannDualizingSheafFirstorder2016 %}. -->
   
 # Acknowledgments

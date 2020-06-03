@@ -4,11 +4,11 @@
 
 layout: cv
 title: CV
-# redirect: assets/pdfs/CV.pdf
+redirect: assets/pdfs/CV.pdf
 
 ---
 
-# CV
+<!-- # CV
 <div class="pdf-wrapper">
 <iframe src="assets/pdfs/CV.pdf" width="100%" height="100%" allowfullscreen="true">
-</div>
+</div> -->
