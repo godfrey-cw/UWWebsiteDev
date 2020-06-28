@@ -3,11 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Home
 ---
 
 I am currently a PhD student in the University of Washington math
-department studying algebraic geometry.
+department studying algebraic geometry.[test](./test.html)
 
 # Research
 
