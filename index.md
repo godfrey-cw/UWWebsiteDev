@@ -6,7 +6,7 @@ layout: home
 ---
 
 I am currently a PhD student in the University of Washington math
-department studying algebraic geometry.[test](./test.html)
+department studying algebraic geometry.
 
 # Research
 
