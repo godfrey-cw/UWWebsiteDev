@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/~cgodfrey/sitemap.xml
+Sitemap: https://math.washington.edu//~cgodfrey/sitemap.xml

@@ -1,6 +1,6 @@
 #!/usr/bin/zsh -f
 # build website
-bundle exec jekyll build && \
+jekyll build && \
     git add . && \
     git commit -m "auto-commit by quick_update.zsh" && \
     git push;
