@@ -4,19 +4,19 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.1 -->
 <title>Charlie Godfrey’s homepage | Algebraic geometry (singularities and moduli spaces)</title>
-<meta name="generator" content="Jekyll v4.0.1" />
+<meta name="generator" content="Jekyll v4.1.1" />
 <meta property="og:title" content="Charlie Godfrey’s homepage" />
 <meta name="author" content="Charlie Godfrey" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Algebraic geometry (singularities and moduli spaces)" />
 <meta property="og:description" content="Algebraic geometry (singularities and moduli spaces)" />
-<link rel="canonical" href="https://math.washington.edu//~cgodfrey/teaching/past_courses/math307/euler_method.html" />
-<meta property="og:url" content="https://math.washington.edu//~cgodfrey/teaching/past_courses/math307/euler_method.html" />
+<link rel="canonical" href="http://localhost:4000/~cgodfrey/teaching/past_courses/math307/euler_method.html" />
+<meta property="og:url" content="http://localhost:4000/~cgodfrey/teaching/past_courses/math307/euler_method.html" />
 <meta property="og:site_name" content="Charlie Godfrey’s homepage" />
 <script type="application/ld+json">
-{"author":{"@type":"Person","name":"Charlie Godfrey"},"description":"Algebraic geometry (singularities and moduli spaces)","@type":"WebPage","url":"https://math.washington.edu//~cgodfrey/teaching/past_courses/math307/euler_method.html","headline":"Charlie Godfrey’s homepage","@context":"https://schema.org"}</script>
+{"author":{"@type":"Person","name":"Charlie Godfrey"},"description":"Algebraic geometry (singularities and moduli spaces)","@type":"WebPage","headline":"Charlie Godfrey’s homepage","url":"http://localhost:4000/~cgodfrey/teaching/past_courses/math307/euler_method.html","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
-<link rel="stylesheet" href="/~cgodfrey/assets/main.css"><link type="application/atom+xml" rel="alternate" href="https://math.washington.edu//~cgodfrey/feed.xml" title="Charlie Godfrey's homepage" /><!-- not working? -->
+<link rel="stylesheet" href="/~cgodfrey/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/~cgodfrey/feed.xml" title="Charlie Godfrey's homepage" /><!-- not working? -->
   <script src="/~cgodfrey/assets/js/mathjax-config.js" id="MathJax-config" defer></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" id="MathJax-script" defer></script>
   <!-- allows redirecting see https://stackoverflow.com/questions/33393953/jekyll-redirect-entire-directory -->
@@ -46,8 +46,7 @@
   </header>
 
   <div class="post-content">
-      
-      <h1 id="eulers-method">Euler’s method</h1>
+    <h1 id="eulers-method">Euler’s method</h1>
 
 <h2 id="the-basic-observation">The basic observation</h2>
 
@@ -82,7 +81,7 @@ And so on  - what we’re doing is iterating on the equation
 
 <h2 id="implementing-the-algorithm">Implementing the algorithm</h2>
 
-<p>Below, we build a <code class="highlighter-rouge">python</code> function called <code class="highlighter-rouge">euler</code> which takes as input</p>
+<p>Below, we build a <code class="language-plaintext highlighter-rouge">python</code> function called <code class="language-plaintext highlighter-rouge">euler</code> which takes as input</p>
 
 <ul>
   <li>a function $f(t, y)$ (the right hand side of the ODE),</li>
@@ -91,11 +90,11 @@ And so on  - what we’re doing is iterating on the equation
   <li>a number of steps $n$ (in other words, $[t_{min}, t_{max}]$ will get broken into $t_{min} = t_0 &lt; t_1 &lt; t_2 &lt; \dots &lt; t_n = t_{max}$).</li>
 </ul>
 
-<p>The output of <code class="highlighter-rouge">euler</code> will be a pair of arrays <code class="highlighter-rouge">t, y</code>, where <code class="highlighter-rouge">t = [t_0, t_1, \dots, t_n]</code> is the list of times and <code class="highlighter-rouge">y = [y_0, y_1, \dots, y_n]</code> is the list of (approximate) $y$-values at those times.</p>
+<p>The output of <code class="language-plaintext highlighter-rouge">euler</code> will be a pair of arrays <code class="language-plaintext highlighter-rouge">t, y</code>, where <code class="language-plaintext highlighter-rouge">t = [t_0, t_1, \dots, t_n]</code> is the list of times and <code class="language-plaintext highlighter-rouge">y = [y_0, y_1, \dots, y_n]</code> is the list of (approximate) $y$-values at those times.</p>
 
 <h2 id="packages">Packages</h2>
 
-<p>Most of the work is handled by <code class="highlighter-rouge">numpy</code> the standard <code class="highlighter-rouge">python</code> package for numerical computing.</p>
+<p>Most of the work is handled by <code class="language-plaintext highlighter-rouge">numpy</code> the standard <code class="language-plaintext highlighter-rouge">python</code> package for numerical computing.</p>
 
 <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Import some packages
 </span><span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="n">np</span>
@@ -150,7 +149,7 @@ And so on  - what we’re doing is iterating on the equation
 <span class="n">plt</span><span class="p">.</span><span class="n">legend</span><span class="p">()</span>
 </code></pre></div></div>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;matplotlib.legend.Legend at 0x7fe69d2d2710&gt;
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;matplotlib.legend.Legend at 0x7fe69d2d2710&gt;
 </code></pre></div></div>
 
 <p><img src="./output_10_1.png" alt="png" /></p>
@@ -168,7 +167,7 @@ And so on  - what we’re doing is iterating on the equation
 <span class="n">plt</span><span class="p">.</span><span class="n">legend</span><span class="p">()</span>
 </code></pre></div></div>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;matplotlib.legend.Legend at 0x7fe69d1ff7b8&gt;
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;matplotlib.legend.Legend at 0x7fe69d1ff7b8&gt;
 </code></pre></div></div>
 
 <p><img src="./output_11_1.png" alt="png" /></p>
@@ -194,7 +193,7 @@ And so on  - what we’re doing is iterating on the equation
 <span class="n">plt</span><span class="p">.</span><span class="n">ylabel</span><span class="p">(</span><span class="s">'y'</span><span class="p">)</span>
 </code></pre></div></div>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Text(0, 0.5, 'y')
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Text(0, 0.5, 'y')
 </code></pre></div></div>
 
 <p><img src="./output_15_1.png" alt="png" /></p>
@@ -222,7 +221,7 @@ And so on  - what we’re doing is iterating on the equation
 <span class="n">plt</span><span class="p">.</span><span class="n">ylabel</span><span class="p">(</span><span class="s">'y'</span><span class="p">)</span>
 </code></pre></div></div>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Text(0, 0.5, 'y')
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Text(0, 0.5, 'y')
 </code></pre></div></div>
 
 <p><img src="./output_18_1.png" alt="png" /></p>

@@ -7,14 +7,16 @@ title: Teaching
 ---
 
 
-# [Algebra 504-506](./algebra.html)
+# Math 126 E: Calculus III (summer 2020)
 
-I am the grader for Sándor Kovács's 500-level (graduate) Algebra class
-this year. 
+Please see [Canvas](https://canvas.uw.edu/courses/1381846) for details.
 
 # Past courses
 
-- [Math 307: Introduction to Differential Equations](./past_courses/math307/index.html)
+- [Math 307: Introduction to Differential
+  Equations](./past_courses/math307/index.html)
+
+- [Algebra 504-506 (grading)](./past_courses/algebra.html)
 
 - [Math 510: Graduate Algebra Prelim Exam Review](./past_courses/math510/index.html)
 

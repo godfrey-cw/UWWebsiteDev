@@ -41,19 +41,12 @@ header_pages:
 - CV.md
 # - about.md
 
-# # need this for including cv?
-# defaults:
-#   - scope:
-#       path: "assets/pdfs"
-#     values:
-#       title: CV
-#       url: assets/pdfs/CV.pdf 
-
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-scholar
+  - jekyll-redirect-from
 
 scholar:
   source: /_bibliography
