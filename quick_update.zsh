@@ -8,6 +8,5 @@ jekyll build && \
 # rsync site to server
 rsync -a -v --delete --info=progress2 \
       --partial --exclude "/.ssh" \
-      --dry-run \
       ./_site/ mathweb_uw:
 
