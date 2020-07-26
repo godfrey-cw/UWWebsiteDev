@@ -5,13 +5,9 @@ jekyll build && \
     git commit -m "auto-commit by quick_update.zsh" && \
     git push;
 
-# remove old website, copy over new one
-rm -rf ~/Documents/Web/UWWebsite/*;
-cp -r ./_site/* ~/Documents/Web/UWWebsite/;
+# rsync site to server
+rsync -a -v --delete --info=progress2 \
+      --partial --exclude "/.ssh" \
+      --dry-run \
+      ./_site/ mathweb_uw:
 
-# change dir, push website
-cd ~/Documents/Web/UWWebsite/;
-git add . && \
-    git commit -m "auto-commit by quick_update.zsh" && \
-    git push origin && \
-    git push live;

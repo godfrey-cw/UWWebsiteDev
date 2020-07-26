@@ -39,11 +39,16 @@ I believe in [Federico Ardila's](http://math.sfsu.edu/federico/)
 
 # Acknowledgments
 
-During the spring of 2019 I was in residence at the Mathematical
-Sciences Research Institute in Berkeley, California, supported by the
-National Science Foundation under Grant No. 1440140. During the
-academic year of 2018-2019 I was supported by the University of
-Washington Department of Mathematics Graduate Research Fellowship.
+During the spring of 2019 I was in residence at the Mathematical Sciences
+Research Institute in Berkeley, California, supported by the National Science
+Foundation under Grant No. 1440140. During the academic year of 2018-2019 I was
+supported by the University of Washington Department of Mathematics Graduate
+Research Fellowship.
+
+<!-- I would like to acknowledge that I am on the traditional land of the first
+peoples of Seattle, the [Duwamish](https://www.duwamishtribe.org/) and
+[Suquamish](https://suquamish.nsn.us/) People past and present, and honor with
+gratitude the land itself and these Tribes. -->
 
 
 <!-- {% bibliography --cited %} -->
