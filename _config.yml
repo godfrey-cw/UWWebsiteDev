@@ -9,7 +9,7 @@ theme: minima
 baseurl: "/~cgodfrey" 
 url: "https://math.washington.edu/" 
 
-title: Charlie Godfrey
+title: Charles Godfrey
 header_pages:
 - index.md
 - teaching/index.md
