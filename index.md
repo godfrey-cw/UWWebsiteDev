@@ -1,18 +1,16 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
 
-I am currently a PhD student in the University of Washington math
-department studying algebraic geometry.
+I am a PhD student in the University of Washington math department
+studying algebraic geometry.
 
 # Research
 
-My research focuses on singularities coming from
-the minimal model program and moduli of varieties, with particular
-interests including:
+My research focuses on singularities coming from the minimal model program and
+moduli of varieties. Particular interests include:
   
 - applications of intersection theory and Hodge theory,<!-- , in the spirit of -->
   <!-- {% cite chatzistamatiouHigherDirectImages2011 %}, {% cite -->
@@ -23,6 +21,34 @@ interests including:
 - infinitesimal deformations of MMP singularities 
  <!-- , following {% cite
   altmannDualizingSheafFirstorder2016 %}. -->
+
+## Preprints
+
+- [*Higher direct images of logarithmic structure
+  sheaves*](assets/pdfs/HDILogStructureShf.pdf), in preparation
+- [*Thrifty rational resolutions in arbitrary
+  characteristic*](assets/pdfs/ThriftyRatl.pdf), general exam paper
+
+## Talks 
+
+- *Du Bois Singularities in Families* (joint work with Takumi Murayama), AMS
+  Fall Eastern Sectional Meeting Special Session on Algebraic Singularities in
+  Arbitrary Characteristic (October 3, 2020)
+- [*Logarithmic Chow-to-Hodge cycle maps*](assets/pdfs/MSRICycleMaps.pdf),
+  MSRI Graduate Student Seminar (Spring 2019)
+- *The Cohomology of a Smooth Hypersurface*, University of Washington Graduate
+  Student 1, 2, 3 Seminar [following the last section of these
+  notes](assets/pdfs/CohoCones.pdf) (Fall 2018)
+- *The cone of curves*, University of Washington Graduate Student MMP Seminar
+  (Winter 2017)
+- *Survey of Linear Stochastic Bandits*, MSRI Mathematics of Machine Learning
+  Summer School (Summer 2019)
+  
+## Notes
+
+- Some [notes I wrote while learning local Grothendieck
+  Duality](assets/pdfs/LocalGrothendieckDuality.pdf), mostly following {% cite
+  hartshorneResiduesDualityLecture1966 %} (believe it or not).
 
 # Axioms
 
@@ -51,4 +77,4 @@ peoples of Seattle, the [Duwamish](https://www.duwamishtribe.org/) and
 gratitude the land itself and these Tribes. -->
 
 
-<!-- {% bibliography --cited %} -->
+{% bibliography --cited %}

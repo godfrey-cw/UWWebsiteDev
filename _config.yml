@@ -38,7 +38,8 @@ plugins:
 
 scholar:
   source: /_bibliography
-  bibliography: master.bib
+  bibliography: website.bib
+  sort_by: author
   # style: 
 
 # Exclude from processing.
