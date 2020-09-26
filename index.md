@@ -43,6 +43,8 @@ moduli of varieties. Particular interests include:
   notes](assets/pdfs/CohoCones.pdf) (Fall 2018)
 - *The cone of curves*, University of Washington Graduate Student MMP Seminar
   (Winter 2017)
+- [*The K-theory of finite fields*](assets/pdfs/KThryFinFlds.pdf), University of Washington Graduate
+  Student 1, 2, 3 Seminar (Spring 2016)
 - *Survey of Linear Stochastic Bandits*, MSRI Mathematics of Machine Learning
   Summer School (Summer 2019)
   
