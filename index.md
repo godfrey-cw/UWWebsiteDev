@@ -24,10 +24,7 @@ moduli of varieties. Particular interests include:
 
 ## Preprints
 
-<!-- - [*Higher direct images of logarithmic structure
-  sheaves*](assets/pdfs/HDILogStructureShf.pdf), in preparation -->
-- *Higher direct images of logarithmic structure
-  sheaves*, in preparation
+- [*Higher direct images of logarithmic structure sheaves*](assets/pdfs/HDILogStructShf.pdf), in preparation
 - [*Thrifty rational resolutions in arbitrary
   characteristic*](assets/pdfs/ThriftyRatl.pdf) (general exam paper)
 
