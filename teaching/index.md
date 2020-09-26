@@ -7,16 +7,17 @@ title: Teaching
 ---
 
 
-# Math 126 E: Calculus III (summer 2020)
+# Math 124 GA: Calculus I (Fall 2020)
 
-Please see [Canvas](https://canvas.uw.edu/courses/1381846) for details.
+Please see [Canvas](https://canvas.uw.edu/courses/1400151) for details.
 
 # Past courses
 
 - [Math 307: Introduction to Differential
-  Equations](./past_courses/math307/index.html)
+  Equations](./past_courses/math307/index.html) (Winter 2019)
 
-- [Algebra 504-506 (grading)](./past_courses/algebra.html)
+- [Algebra 504-506 (grading)](./past_courses/algebra.html) (2019-2020)
 
-- [Math 510: Graduate Algebra Prelim Exam Review](./past_courses/math510/index.html)
+- [Math 510: Graduate Algebra Prelim Exam
+  Review](./past_courses/math510/index.html) (Summer 2019)
 
