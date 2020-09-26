@@ -29,7 +29,7 @@ moduli of varieties. Particular interests include:
 - *Higher direct images of logarithmic structure
   sheaves*, in preparation
 - [*Thrifty rational resolutions in arbitrary
-  characteristic*](assets/pdfs/ThriftyRatl.pdf), general exam paper
+  characteristic*](assets/pdfs/ThriftyRatl.pdf) (general exam paper)
 
 ## Talks 
 
@@ -49,8 +49,8 @@ moduli of varieties. Particular interests include:
 ## Notes
 
 - Some [notes I wrote while learning local Grothendieck
-  Duality](assets/pdfs/LocalGrothendieckDuality.pdf), mostly following {% cite
-  hartshorneResiduesDualityLecture1966 %} (believe it or not).
+  Duality](assets/pdfs/LocalGrothendieckDuality.pdf), mostly following the
+  classic {% cite hartshorneResiduesDualityLecture1966 %}.
 
 # Axioms
 
