@@ -6,6 +6,10 @@
 # Build settings
 theme: minima
 
+# lots of changes upcoming ... see the github readme 
+# minima:
+#   skin: classic
+
 baseurl: "/~cgodfrey" 
 url: "https://math.washington.edu/" 
 
@@ -18,10 +22,6 @@ header_pages:
 
 description: >
   Algebraic geometry (singularities and moduli spaces)
-
-# lots of changes upcoming ... see the github readme 
-# minima:
-#   skin: classic
   
 author: Charlie Godfrey
 email: "cgodfrey@uw.edu"
