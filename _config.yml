@@ -23,7 +23,7 @@ header_pages:
 description: >
   Algebraic geometry (singularities and moduli spaces)
   
-author: Charlie Godfrey
+# author: Charles Godfrey
 email: "cgodfrey@uw.edu"
 
 github_username:  godfrey-cw

@@ -5,7 +5,7 @@ layout: home
 ---
 
 I am a PhD student in the University of Washington math department
-studying algebraic geometry.
+studying algebraic geometry with [S&aacute;ndor Kov&aacute;cs](http://sites.math.washington.edu/~kovacs/current/index.html).
 
 # Research
 
