@@ -30,7 +30,7 @@ moduli of varieties. Particular interests include:
 
 ## Talks 
 
-- *Du Bois Singularities in Families* (joint work with Takumi Murayama), AMS
+- [*Du Bois Singularities in Families*](assets/pdfs/DBFamSlides.pdf) (joint work with Takumi Murayama), AMS
   Fall Eastern Sectional Meeting Special Session on Algebraic Singularities in
   Arbitrary Characteristic (October 3, 2020)
 - [*Logarithmic Chow-to-Hodge cycle maps*](assets/pdfs/MSRICycleMaps.pdf),
