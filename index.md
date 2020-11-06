@@ -28,8 +28,9 @@ moduli of varieties. Particular interests include:
 - [*Thrifty rational resolutions in arbitrary
   characteristic*](assets/pdfs/ThriftyRatl.pdf) (general exam paper)
 
-## Talks 
+## Talks
 
+- [*Higher direct images of logarithmic structure sheaves*](assets/pdfs/HDILogStructSlides.pdf), University of Washington Algebra and Algebraic Geometry Seminar (October 27, 2020)
 - [*Du Bois Singularities in Families*](assets/pdfs/DBFamSlides.pdf) (joint work with Takumi Murayama), AMS
   Fall Eastern Sectional Meeting Special Session on Algebraic Singularities in
   Arbitrary Characteristic (October 3, 2020)
@@ -50,6 +51,8 @@ moduli of varieties. Particular interests include:
 - Some [notes I wrote while learning local Grothendieck
   Duality](assets/pdfs/LocalGrothendieckDuality.pdf), mostly following the
   classic {% cite hartshorneResiduesDualityLecture1966 %}.
+
+  {% bibliography --cited %}
 
 # Axioms
 
@@ -78,4 +81,4 @@ peoples of Seattle, the [Duwamish](https://www.duwamishtribe.org/) and
 gratitude the land itself and these Tribes. -->
 
 
-{% bibliography --cited %}
+
