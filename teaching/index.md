@@ -7,11 +7,11 @@ title: Teaching
 ---
 
 
-# Math 124 GA: Calculus I (Fall 2020)
-
-Please see [Canvas](https://canvas.uw.edu/courses/1400151) for details.
+# [Math 324: Vector Calculus](./math324/index.html)
 
 # Past courses
+
+- Math 124 GA: Calculus I (Fall 2020)
 
 - [Math 307: Introduction to Differential
   Equations](./past_courses/math307/index.html) (Winter 2019)
