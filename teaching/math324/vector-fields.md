@@ -3,7 +3,7 @@ title: Vector fields using Julia's Plots.jl
 layout: page
 ---
 
-For this to work, you'll need Julia installed (it's free), as well as the package "Plots."
+For this to work, you'll need Julia installed, as well as the package "Plots."
 
 *Note:* The indexing in this function is somewhat confusing, to be honest I worked it out by "trial and error" and "print debugging."
 
@@ -22,7 +22,6 @@ function vf_plot(x, y, f)
     uv = reshape(Z, :)
     us = [t[1] for t in uv]
     vs = [t[2] for t in uv]
-    # return xs, ys, u, v
     quiver(xs, ys, quiver=(us,vs))
     xlabel!("x")
     ylabel!("y")
