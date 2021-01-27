@@ -10,3 +10,4 @@ couldn't easily embed in Canvas.
 # Visualizations
 
 [Tetrahedron from Monday, Jan. 11 lecture](./tetrahedron.html) 
+[Plotting vector fields in Julia](./vector-fields.html)
