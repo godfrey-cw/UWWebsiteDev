@@ -9,27 +9,25 @@ studying algebraic geometry with [S&aacute;ndor Kov&aacute;cs](http://sites.math
 
 # Research
 
-My research focuses on singularities coming from the minimal model program and
-moduli of varieties. Particular interests include:
+My research focuses on birational geometry and singularities. Particular interests include:
   
-- applications of intersection theory and Hodge theory,<!-- , in the spirit of -->
-  <!-- {% cite chatzistamatiouHigherDirectImages2011 %}, {% cite -->
-  <!-- chatzistamatiouHodgeWittCohomologyWittRational2012  %} -->
+- singularities of pairs in positive and mixed characteristic
   
-- positive-characteristic behavior, and
+- dual complexes of snc varieties and of singularities
 
-- infinitesimal deformations of MMP singularities 
- <!-- , following {% cite
-  altmannDualizingSheafFirstorder2016 %}. -->
+- singularities in positive characteristic defined via Frobenius ($F$-singularities)
 
 ## Preprints
 
-- [*Higher direct images of logarithmic structure sheaves*](assets/pdfs/HDILogStructureShf.pdf), in preparation
+- [*Higher direct images of logarithmic ideal sheaves*](assets/pdfs/HDILogIdealShf.pdf), in preparation
 - [*Thrifty rational resolutions in arbitrary
   characteristic*](assets/pdfs/ThriftyRatl.pdf) (general exam paper)
 
 ## Talks
 
+- [A Du Bois-Jarraud type lemma in characteristic
+  $p>0$](assets/pdfs/DBJarTypeLemma.pdf), University of Washington "What are you
+ working on?" Seminar (April 5-7, 2021)
 - [*Higher direct images of logarithmic structure sheaves*](assets/pdfs/HDILogStructSlides.pdf), University of Washington Algebra and Algebraic Geometry Seminar (October 27, 2020)
 - [*Du Bois Singularities in Families*](assets/pdfs/DBFamSlides.pdf) (joint work with Takumi Murayama), AMS
   Fall Eastern Sectional Meeting Special Session on Algebraic Singularities in
