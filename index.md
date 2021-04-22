@@ -19,7 +19,7 @@ My research focuses on birational geometry and singularities. Particular interes
 
 ## Preprints
 
-- [*Higher direct images of logarithmic ideal sheaves*](assets/pdfs/HDILogIdealShf.pdf), in preparation
+- [*Higher direct images of logarithmic ideal sheaves*](assets/pdfs/HDILogStructureShf.pdf), in preparation
 - [*Thrifty rational resolutions in arbitrary
   characteristic*](assets/pdfs/ThriftyRatl.pdf) (general exam paper)
 
