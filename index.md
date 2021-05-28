@@ -19,30 +19,30 @@ My research focuses on birational geometry and singularities. Particular interes
 
 ## Preprints
 
-- [*Higher direct images of logarithmic ideal sheaves*](assets/pdfs/HDILogStructureShf.pdf), in preparation
-- [*Thrifty rational resolutions in arbitrary
-  characteristic*](assets/pdfs/ThriftyRatl.pdf) (general exam paper)
+1. May 2021. [“Higher Direct Images of Ideal Sheaves, Correspondences in Log Hodge Cohomology and
+Globally F-Full Varieties”](assets/pdfs/thesis.pdf). PhD thesis draft. University of Washington. 66 pp. 
+2. 2020 (with Takumi Murayama). “Du Bois Singularities in Families”. In preparation.
+3. May 2018. [“Thrifty Rational Resolutions in Arbitrary Characteristic”](assets/pdfs/ThriftyRatl.pdf). General exam paper.
 
 ## Talks
 
-- [A Du Bois-Jarraud type lemma in characteristic
-  $p>0$](assets/pdfs/DBJarTypeLemma.pdf), University of Washington "What are you
- working on?" Seminar (April 5-7, 2021)
-- [*Higher direct images of logarithmic structure sheaves*](assets/pdfs/HDILogStructSlides.pdf), University of Washington Algebra and Algebraic Geometry Seminar (October 27, 2020)
-- [*Du Bois Singularities in Families*](assets/pdfs/DBFamSlides.pdf) (joint work with Takumi Murayama), AMS
-  Fall Eastern Sectional Meeting Special Session on Algebraic Singularities in
-  Arbitrary Characteristic (October 3, 2020)
-- [*Logarithmic Chow-to-Hodge cycle maps*](assets/pdfs/MSRICycleMaps.pdf),
-  MSRI Graduate Student Seminar (Spring 2019)
-- *The Cohomology of a Smooth Hypersurface*, University of Washington Graduate
-  Student 1, 2, 3 Seminar [following the last section of these
-  notes](assets/pdfs/CohoCones.pdf) (Fall 2018)
-- *The cone of curves*, University of Washington Graduate Student MMP Seminar
-  (Winter 2017)
-- [*The K-theory of finite fields*](assets/pdfs/KThryFinFlds.pdf), University of Washington Graduate
-  Student 1, 2, 3 Seminar (Spring 2016)
-- *Survey of Linear Stochastic Bandits*, MSRI Mathematics of Machine Learning
-  Summer School (Summer 2019)
+1. Aprl 7, 2021. “A Du Bois-Jarraud Type Lemma in Characteristic p” (University of Washington ”What are
+you working on?” Student Seminar).
+2. Jan. 5, 2021. “The (Derived) Direct Summand Conjecture: A Survey of Bhatt’s Theorems” (University of
+Washington Recent Hits in Algebraic Geometry Student Seminar).
+3. Oct. 3, 2020 (with Takumi Murayama). “Du Bois Singularities in Families” (AMS Fall Eastern Sectional
+Special Session on Algebraic Singularities in Arbitrary Characteristic).
+4. Oct. 27, 2020. “Higher Direct Images of (Log) Structure Sheaves” (University of Washington Algebra
+and Algebraic Geometry Seminar).
+5. Apr. 26, 2019. [“Logarithmic Chow-to-Hodge Cycle Maps”](assets/pdfs/MSRICycleMaps.pdf) (Mathematical Sciences Research Institute
+Graduate Student Seminar).
+6. Aug. 9, 2019 (with Kapila Kottegoda, Oliver Knitter, and Yunpeng Shi). “Survey of Linear Stochastic
+Bandits” (MSRI Mathematics of Machine Learning Summer School).
+7. Aut. 2018.“The Cohomology of a Smooth Hypersurface” (The University of Washington Graduate Student
+1, 2, 3 Seminar) ([following the last section of these
+  notes](assets/pdfs/CohoCones.pdf)). 
+8. Win. 2017. “The Cone of Curves” (The University of Washington Graduate Student MMP Seminar).
+
   
 ## Notes
 
