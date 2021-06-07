@@ -10,7 +10,7 @@ cd /home/charlie/Documents/Web/godfrey-cw.github.io &&\
 git checkout gh-pages;
 
 rsync -a -v --delete --info=progress2 \
-      --partial --exclude "/.ssh" \
+      --partial --exclude "/.git" \
       /home/charlie/Documents/Web/WebDev/_site/ \
       /home/charlie/Documents/Web/godfrey-cw.github.io/;
 
