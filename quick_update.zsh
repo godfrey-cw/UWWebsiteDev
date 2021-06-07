@@ -10,7 +10,7 @@ cd /home/charlie/Documents/Web/godfrey-cw.github.io;
 
 rsync -a -v --delete --info=progress2 \
       --partial --exclude "/.git" --exclude "/.nojekyll" \
-      /home/charlie/Documents/Web/WebDev/ \
+      /home/charlie/Documents/Web/WebDev/_site/ \
       /home/charlie/Documents/Web/godfrey-cw.github.io/;
 
 git add . && git commit -m "auto-commit by jekyll process";
