@@ -5,8 +5,16 @@ jekyll build && \
     git commit -m "auto-commit by quick_update.zsh" && \
     git push;
 
-# rsync site to server
+# sync site to server
+cd /home/charlie/Documents/Web/godfrey-cw.github.io &&\
+git checkout gh-pages;
+
 rsync -a -v --delete --info=progress2 \
       --partial --exclude "/.ssh" \
-      ./_site/ mathweb_uw:
+      /home/charlie/Documents/Web/WebDev/_site/ \
+      /home/charlie/Documents/Web/godfrey-cw.github.io/;
 
+git add . && git commit -m "auto-commit by jekyll process";
+git push;
+
+cd /home/charlie/Documents/Web/WebDev;
