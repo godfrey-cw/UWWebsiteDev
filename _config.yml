@@ -10,8 +10,9 @@ theme: minima
 # minima:
 #   skin: classic
 
-baseurl: "/~cgodfrey" 
-url: "https://math.washington.edu/" 
+# # custom domain name, breaks gh-pages
+# baseurl: "/~cgodfrey" 
+# url: "https://math.washington.edu/" 
 
 title: Charles Godfrey
 header_pages:
