@@ -6,11 +6,10 @@ jekyll build && \
     git push;
 
 # sync site to server
-cd /home/charlie/Documents/Web/godfrey-cw.github.io &&\
-git checkout gh-pages;
+cd /home/charlie/Documents/Web/godfrey-cw.github.io;
 
 rsync -a -v --delete --info=progress2 \
-      --partial --exclude "/.git" \
+      --partial --exclude "/.git" --exclude "/.nojekyll" \
       /home/charlie/Documents/Web/WebDev/_site/ \
       /home/charlie/Documents/Web/godfrey-cw.github.io/;
 
