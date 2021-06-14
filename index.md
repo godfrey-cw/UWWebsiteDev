@@ -4,8 +4,9 @@
 layout: home
 ---
 
-I am a PhD student in the University of Washington math department
-studying algebraic geometry with [S&aacute;ndor Kov&aacute;cs](http://sites.math.washington.edu/~kovacs/current/index.html).
+I recently completed a PhD in mathematics (algebraic geometry) at the University
+of Washington. My advisor was [S&aacute;ndor
+Kov&aacute;cs](http://sites.math.washington.edu/~kovacs/current/index.html).
 
 # Research
 
