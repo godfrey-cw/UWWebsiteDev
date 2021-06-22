@@ -8,7 +8,7 @@ date: 2020-07-13 14:17 -0500
 This notebook shows how to use the `Plots.jl` Julia package to generate `.gifs`
 of deformations of surfaces in $\mathbb{R}^3$.
 
-You can download the notebook itself [here](/~cgodfrey/assets/notebooks/SurfaceDefos.ipynb).
+You can download the notebook itself [here](assets/notebooks/SurfaceDefos.ipynb).
 
 
 ```julia
@@ -119,4 +119,4 @@ c = [-1:0.01:0; zeros(10); 0:0.01:1]
 surf_defo(x, y, cone, c)
 ```
 
-![Deforming a hyperboloid through a cone](/~cgodfrey/assets/images/1sheet2sheets.gif "Deforming a hyperboloid")
+![Deforming a hyperboloid through a cone](assets/images/1sheet2sheets.gif "Deforming a hyperboloid")
