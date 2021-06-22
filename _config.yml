@@ -14,7 +14,7 @@ theme: minima
 # baseurl: "/~cgodfrey" 
 # url: "https://math.washington.edu/" 
 
-title: Charles Godfrey
+title: Charlie Godfrey
 header_pages:
 - index.md
 - teaching/index.md
@@ -25,7 +25,7 @@ description: >
   Home Page
   
 # author: Charles Godfrey
-email: "cgodfrey@uw.edu"
+email: "godfrey.cw@gmail.com"
 
 github_username:  godfrey-cw
 linkedin_username: godfrey-cw
