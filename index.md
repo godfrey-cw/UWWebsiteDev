@@ -21,9 +21,9 @@ My research focuses on birational geometry and singularities. Particular interes
 ## Preprints
 
 1. May 2021. [“Higher Direct Images of Ideal Sheaves, Correspondences in Log Hodge Cohomology and
-Globally F-Full Varieties”](assets/pdfs/thesis.pdf). PhD thesis draft. University of Washington. 66 pp. 
+Globally F-Full Varieties”](/assets/pdfs/thesis.pdf). PhD thesis draft. University of Washington. 66 pp. 
 2. 2020 (with Takumi Murayama). “Du Bois Singularities in Families”. In preparation.
-3. May 2018. [“Thrifty Rational Resolutions in Arbitrary Characteristic”](assets/pdfs/ThriftyRatl.pdf). General exam paper.
+3. May 2018. [“Thrifty Rational Resolutions in Arbitrary Characteristic”](/assets/pdfs/ThriftyRatl.pdf). General exam paper.
 
 ## Talks
 
@@ -35,20 +35,20 @@ Washington Recent Hits in Algebraic Geometry Student Seminar).
 Special Session on Algebraic Singularities in Arbitrary Characteristic).
 4. Oct. 27, 2020. “Higher Direct Images of (Log) Structure Sheaves” (University of Washington Algebra
 and Algebraic Geometry Seminar).
-5. Apr. 26, 2019. [“Logarithmic Chow-to-Hodge Cycle Maps”](assets/pdfs/MSRICycleMaps.pdf) (Mathematical Sciences Research Institute
+5. Apr. 26, 2019. [“Logarithmic Chow-to-Hodge Cycle Maps”](/assets/pdfs/MSRICycleMaps.pdf) (Mathematical Sciences Research Institute
 Graduate Student Seminar).
 6. Aug. 9, 2019 (with Kapila Kottegoda, Oliver Knitter, and Yunpeng Shi). “Survey of Linear Stochastic
 Bandits” (MSRI Mathematics of Machine Learning Summer School).
 7. Aut. 2018.“The Cohomology of a Smooth Hypersurface” (The University of Washington Graduate Student
 1, 2, 3 Seminar) ([following the last section of these
-  notes](assets/pdfs/CohoCones.pdf)). 
+  notes](/assets/pdfs/CohoCones.pdf)). 
 8. Win. 2017. “The Cone of Curves” (The University of Washington Graduate Student MMP Seminar).
 
   
 ## Notes
 
 - Some [notes I wrote while learning local Grothendieck
-  Duality](assets/pdfs/LocalGrothendieckDuality.pdf), mostly following the
+  Duality](/assets/pdfs/LocalGrothendieckDuality.pdf), mostly following the
   classic {% cite hartshorneResiduesDualityLecture1966 %}.
 
   {% bibliography --cited %}

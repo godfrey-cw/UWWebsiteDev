@@ -3,6 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 title: CV
-redirect_to: assets/pdfs/GodfreyCV.pdf
+redirect_to: /assets/pdfs/GodfreyCV.pdf
 
 ---
