@@ -37,6 +37,10 @@ plugins:
   - jekyll-scholar
   - jekyll-redirect-from
 
+kramdown:
+  math_engine: katex
+  math_engine_opts: {}
+
 scholar:
   source: /_bibliography
   bibliography: website.bib
