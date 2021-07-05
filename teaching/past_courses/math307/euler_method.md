@@ -13,8 +13,8 @@ solve ODEs.
 Way back in the day, Euler devised an algorithm to solve an initial
 value problem of the form 
 \\[y' = f(t, y), \, \, \text{ with } \, \, y(t_0) = y_0\\]
-Here's the idea: if $$ \Delta t $$ is a _small_ time interval starting at
-$$ t_0 $$, and $$ t_1 = t_0+\Delta t $$ (so that $$ \Delta t = t_1 - t_0 $$) then
+Here's the idea: if $\Delta t$ is a _small_ time interval starting at
+$t_0$, and $t_1 = t_0+\Delta t$ (so that $\Delta t = t_1 - t_0$) then
 from the definition of the derivative we should have 
 \\[
 \frac{y(t_1) - y(t_0)}{\Delta t} \approx y'(t_0) = f(t_0, y_0)
@@ -23,28 +23,28 @@ Rearranging, this says
 \\[
 y(t_1) \approx y_0 + f(t_0, y_0) \Delta t
 \\] 
-Set $$ y_1 = y_0 + f(t_0, y_0) \Delta t $$.
+Set $y_1 = y_0 + f(t_0, y_0) \Delta t$.
 
 ## Iterating on the basic observation
 
-Now we can repeat this process, but starting with $$ t_1 $$ and $$ y_1 $$
-(instead of $$ t_0 $$ and $$ y_0 $$). We'll get $$ t_2 = t_1+ \Delta t $$, and 
+Now we can repeat this process, but starting with $t_1$ and $y_1$
+(instead of $t_0$ and $y_0$). We'll get $t_2 = t_1+ \Delta t$, and 
 \\[y_2 = y_1 + f(t_1, y_1) \Delta t\\] 
 And so on  - what we're doing is iterating on the equation 
 \\[y_{i+1} = y_i + f(t_i, y_i) (t_{i+1} - t_i)\\] 
 
-As an algorithm, Euler's method takes as input a differential equation $$ y' = f(t, y) $$, a list of times $$ t_0, t_1, \dots, t_n $$, and an initial condition $$ y(t_0) = y_0 $$. It then uses the equation $$ y_{i+1} = y_i + f(t_i, y_i) (t_{i+1} - t_i) $$ to produce estimates $$ y(t_1) \approx y_1, \dots, y(t_n) \approx y_n $$  
+As an algorithm, Euler's method takes as input a differential equation $y' = f(t, y)$, a list of times $t_0, t_1, \dots, t_n$, and an initial condition $y(t_0) = y_0$. It then uses the equation $y_{i+1} = y_i + f(t_i, y_i) (t_{i+1} - t_i)$ to produce estimates $y(t_1) \approx y_1, \dots, y(t_n) \approx y_n$  
 
 ## Implementing the algorithm
 
 Below, we build a `python` function called `euler` which takes as input 
 
-- a function $$ f(t, y) $$ (the right hand side of the ODE), 
-- an initial value $$ y_0 $$
-- a "time" interval $$ [t_{min}, t_{max}] $$ (with $$ t_0 = t_{min} $$), and 
-- a number of steps $$ n $$ (in other words, $$ [t_{min}, t_{max}] $$ will get broken into $$ t_{min} = t_0 < t_1 < t_2 < \dots < t_n = t_{max} $$). 
+- a function $f(t, y)$ (the right hand side of the ODE), 
+- an initial value $y_0$
+- a "time" interval $[t_{min}, t_{max}]$ (with $t_0 = t_{min}$), and 
+- a number of steps $n$ (in other words, $[t_{min}, t_{max}]$ will get broken into $t_{min} = t_0 < t_1 < t_2 < \dots < t_n = t_{max}$). 
 
-The output of `euler` will be a pair of arrays `t, y`, where `t = [t_0, t_1, \dots, t_n]` is the list of times and `y = [y_0, y_1, \dots, y_n]` is the list of (approximate) $$ y $$-values at those times. 
+The output of `euler` will be a pair of arrays `t, y`, where `t = [t_0, t_1, \dots, t_n]` is the list of times and `y = [y_0, y_1, \dots, y_n]` is the list of (approximate) $y$-values at those times. 
 
 ## Packages
 
@@ -92,7 +92,7 @@ sns.set()
 
 ### Example
 
-To test our work, let's use the simple equation $$ y' = - y + 1 $$
+To test our work, let's use the simple equation $y' = - y + 1$
 
 
 ```python
@@ -152,11 +152,11 @@ plt.legend()
 
 ### Example
 
-The autonomous equation $$ y' = \frac{y - y^3}{10} $$ (slope field below). 
+The autonomous equation $y' = \frac{y - y^3}{10}$ (slope field below). 
 
 ![It's slope field looks like](./aut_slope_field.png)
 
-Note that there are stable equilibria at $$ y= \pm 1 $$, and an unstable equilibrium at $$ y=0 $$. We could solve this equation (using partial fractions!) but instead let's just use Euler's method:
+Note that there are stable equilibria at $y= \pm 1$, and an unstable equilibrium at $y=0$. We could solve this equation (using partial fractions!) but instead let's just use Euler's method:
 
 
 ```python
