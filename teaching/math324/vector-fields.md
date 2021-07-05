@@ -41,4 +41,4 @@ vf_plot(x, y, vf1)
 ```
 
 The output will look something like this:
-![The vector field $(-y, x)$](./vect-fld.png)
+![The vector field $$ (-y, x) $$](./vect-fld.png)

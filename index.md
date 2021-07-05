@@ -16,7 +16,7 @@ My research focuses on birational geometry and singularities. Particular interes
   
 - dual complexes of snc varieties and of singularities
 
-- singularities in positive characteristic defined via Frobenius ($F$-singularities)
+- singularities in positive characteristic defined via Frobenius ($$ F $$-singularities)
 
 ## Preprints
 

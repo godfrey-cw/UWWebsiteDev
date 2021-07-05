@@ -107,7 +107,7 @@ started go to <http://www.webassign.net/washington/login.html>
 
 ## Grades
 
-Per UW policy, the median grade for this class will be 3.0 \(\pm \)
+Per UW policy, the median grade for this class will be 3.0 $$ \pm  $$
 0.2. Here's the percentage weight of homework and exams:
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
@@ -157,7 +157,7 @@ section) on March 21st in our usual classroom (Smith 105).
 
 You may use a non-graphing scientific calculator, comparable to those
 allowed in the 120-level math courses at UW. You may bring a
-handwritten, 2-sided 8.5 $\times$ 11 sheet of notes to the exams .
+handwritten, 2-sided 8.5 $$ \times $$ 11 sheet of notes to the exams .
 
 There's a wide variety of mathematical software that can be used to solve differential
 equations, and I encourage you to become familiar with some of it. If

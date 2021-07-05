@@ -6,7 +6,7 @@ date: 2020-07-13 14:17 -0500
 ---
 
 This notebook shows how to use the `Plots.jl` Julia package to generate `.gifs`
-of deformations of surfaces in $\mathbb{R}^3$.
+of deformations of surfaces in $$ \mathbb{R}^3 $$.
 
 You can download the notebook itself [here](assets/notebooks/SurfaceDefos.ipynb).
 
@@ -47,9 +47,9 @@ end
 
 
 # Generating `.gifs`
-Now we use `Plots.jl`'s handy `@gif`. We'll encode a surface deformation as a parameterized family of functions $f(x, y, c)$, encoded as a function $h \colon \mathbb{R} \to \mathrm{Functions}(\mathbb{R}^2, \mathbb{R})$ taking $c \mapsto f(x, y, c)$.
+Now we use `Plots.jl`'s handy `@gif`. We'll encode a surface deformation as a parameterized family of functions $$ f(x, y, c) $$, encoded as a function $$ h \colon \mathbb{R} \to \mathrm{Functions}(\mathbb{R}^2, \mathbb{R}) $$ taking $$ c \mapsto f(x, y, c) $$.
 
-To prevend the $z$ limits from jumping around, we compute their max and min values.
+To prevend the $$ z $$ limits from jumping around, we compute their max and min values.
 
 
 ```julia
@@ -85,7 +85,7 @@ end
 
 
 # Writing down a deformation
-Here's an example of the deformation $z^2 - \frac{x^2}{4} - \frac{y^2}{9} = c$ for $c \in [-1, 1]$.
+Here's an example of the deformation $$ z^2 - \frac{x^2}{4} - \frac{y^2}{9} = c $$ for $$ c \in [-1, 1] $$.
 
 
 ```julia
@@ -109,7 +109,7 @@ end
 
 
 # Rendering a deformation
-Here we finally run the above functions. For best results a very fine $xy$ grid is used ... this might take a while.
+Here we finally run the above functions. For best results a very fine $$ xy $$ grid is used ... this might take a while.
 
 
 ```julia
