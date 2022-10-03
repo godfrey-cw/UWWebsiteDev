@@ -1,6 +1,8 @@
 #!/usr/bin/zsh -f
 # build website
-jekyll build && \
+# hack since paths are currently broken
+# jekyll build && \
+~/.gem/ruby/3.0.0/bin/jekyll build && \
     git add . && \
     git commit -m "auto-commit by quick_update.zsh" && \
     git push;

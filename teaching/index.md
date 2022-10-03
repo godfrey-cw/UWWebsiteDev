@@ -6,12 +6,11 @@ layout: teaching
 title: Teaching
 ---
 
-
-# [Math 324: Vector Calculus](./math324/index.html)
-
 # Past courses
 
-- Math 124 GA: Calculus I (Fall 2020)
+<!-- - Math 124 GA: Calculus I (Fall 2020) -->
+
+- [Math 324: Vector Calculus](./math324/index.html) (Summer 2020)
 
 - [Math 307: Introduction to Differential
   Equations](./past_courses/math307/index.html) (Winter 2019)
