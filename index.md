@@ -43,8 +43,9 @@ positive and mixed characteristic.
 
 ## Preprints
 
-1. [Convolutional networks inherit frequency sensitivity from image
-   statistics](https://arxiv.org/abs/2210.01257) (2022).
+1. Charles Godfrey, Elise Bishoff, Myles Mckay, Davis Brown, Grayson Jorgenson,
+   Henry Kvinge and Eleanor Byler. [Convolutional networks inherit frequency
+   sensitivity from image statistics](https://arxiv.org/abs/2210.01257) (2022).
 1. Takumi Murayama and Charles Godfrey. [Pure subrings of du bois singularities
    are du bois singularities](https://arxiv.org/abs/2208.14429) (2022).
 1. [Higher direct images of ideal sheaves](https://arxiv.org/abs/2207.01142) (2022).
