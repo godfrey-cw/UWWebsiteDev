@@ -31,7 +31,7 @@ positive and mixed characteristic.
 1. Charles Godfrey, Davis Brown (equal contribution), Tegan Emerson and Henry Kvinge. [On
   the Symmetries of Deep Learning Models and their Internal
   Representations](https://arxiv.org/abs/2205.14258). To appear in *NeurIPS
-  2022*.
+  2022*. Code available at [https://github.com/pnnl/modelsym](github.com/pnnl/modelsym)
 2. Elizabeth Coda, Nico Courts, Colby Wight, Loc Truong, WoongJo Choi, Charles
    Godfrey, Tegan Emerson, Keerti Kappagantula and Henry Kvinge. [Fiber bundle
    morphisms as a framework for modeling many-to-many
@@ -51,27 +51,16 @@ positive and mixed characteristic.
 1. [Higher direct images of ideal sheaves](https://arxiv.org/abs/2207.01142) (2022).
 
 
+## Upcoming talks
 
-## Talks
+1. January 5, 2023: AMS Special Session on Topology, Algebra, and Geometry in
+   the Mathematics of Data Science at [JMM
+   2023](https://jointmathematicsmeetings.org/jmm).
+   
+## Organizing
 
-<!-- 1. Aprl 7, 2021. “A Du Bois-Jarraud Type Lemma in Characteristic p” (University of Washington ”What are
-you working on?” Student Seminar).
-2. Jan. 5, 2021. “The (Derived) Direct Summand Conjecture: A Survey of Bhatt’s Theorems” (University of
-Washington Recent Hits in Algebraic Geometry Student Seminar). -->
+I co-organize the [Pacific Northwest Seminar on Topology, Algebra, and Geometry in Data Science](https://sites.google.com/view/tag-ds/).
 
-1. Oct. 3, 2020 (with Takumi Murayama). “Du Bois Singularities in Families” (AMS Fall Eastern Sectional
-Special Session on Algebraic Singularities in Arbitrary Characteristic).
-4. Oct. 27, 2020. “Higher Direct Images of (Log) Structure Sheaves” (University of Washington Algebra
-and Algebraic Geometry Seminar).
-5. Apr. 26, 2019. [“Logarithmic Chow-to-Hodge Cycle Maps”](/assets/pdfs/MSRICycleMaps.pdf) (Mathematical Sciences Research Institute
-Graduate Student Seminar).
-6. Aug. 9, 2019 (with Kapila Kottegoda, Oliver Knitter, and Yunpeng Shi). “Survey of Linear Stochastic
-Bandits” (MSRI Mathematics of Machine Learning Summer School).
-
-<!-- 7. Aut. 2018.“The Cohomology of a Smooth Hypersurface” (The University of Washington Graduate Student
-1, 2, 3 Seminar) ([following the last section of these
-  notes](/assets/pdfs/CohoCones.pdf)). 
-8. Win. 2017. “The Cone of Curves” (The University of Washington Graduate Student MMP Seminar). -->
 
   
 <!-- ## Notes
