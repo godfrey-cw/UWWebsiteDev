@@ -53,13 +53,9 @@ positive and mixed characteristic.
 
 ## Upcoming talks
 
-1. January 5, 2023: AMS Special Session on Topology, Algebra, and Geometry in
-   the Mathematics of Data Science at [JMM
-   2023](https://jointmathematicsmeetings.org/jmm).
-   
-## Organizing
-
-I co-organize the [Pacific Northwest Seminar on Topology, Algebra, and Geometry in Data Science](https://sites.google.com/view/tag-ds/).
+1. January 5, 2023. AMS Special Session on Topology, Algebra, and Geometry in
+   the Mathematics of Data Science at the [Joint Mathematics
+   Meetings](https://jointmathematicsmeetings.org/jmm).
 
 
   
