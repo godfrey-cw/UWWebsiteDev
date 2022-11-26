@@ -43,6 +43,10 @@ positive and mixed characteristic.
 
 ## Preprints
 
+1. Henry Kvinge, Grayson Jorgenson, Davis Brown, Charles Godfrey and Tegan
+   Emerson. [Neural frames: A Tool for Studying the Tangent Bundles Underlying
+   Image Datasets and How Deep Learning Models Process
+   Them](https://arxiv.org/abs/2211.10558) (2022).
 1. Charles Godfrey, Elise Bishoff, Myles Mckay, Davis Brown, Grayson Jorgenson,
    Henry Kvinge and Eleanor Byler. [Convolutional networks inherit frequency
    sensitivity from image statistics](https://arxiv.org/abs/2210.01257) (2022).
