@@ -15,8 +15,7 @@ Kov&aacute;cs](http://sites.math.washington.edu/~kovacs/current/index.html).
 
 # Research
 
-I am interested in properties of deep learning models beyond validation
-accuracy, including 
+I am interested in holistic evaluation of deep learning models, including 
 
 - feature (dis)similarity, 
 - explainability and interpretability, 
@@ -43,6 +42,7 @@ positive and mixed characteristic.
 
 ## Preprints
 
+1. [Correspondences in log Hodge cohomology](https://arxiv.org/abs/2301.00517) (2023).
 1. Henry Kvinge, Grayson Jorgenson, Davis Brown, Charles Godfrey and Tegan
    Emerson. [Neural frames: A Tool for Studying the Tangent Bundles Underlying
    Image Datasets and How Deep Learning Models Process
@@ -57,19 +57,8 @@ positive and mixed characteristic.
 
 ## Upcoming talks
 
-1. January 5, 2023. AMS Special Session on Topology, Algebra, and Geometry in
-   the Mathematics of Data Science at the [Joint Mathematics
-   Meetings](https://jointmathematicsmeetings.org/jmm).
+1. February 29th, 2023. [Boston College Math & Machine Learning Seminar](https://sites.google.com/view/bcmmlseminar).
 
-
-  
-<!-- ## Notes
-
-- Some [notes I wrote while learning local Grothendieck
-  Duality](/assets/pdfs/LocalGrothendieckDuality.pdf), mostly following the
-  classic {% cite hartshorneResiduesDualityLecture1966 %}.
-
-  {% bibliography --cited %} -->
 
 # Axioms
 
@@ -91,11 +80,3 @@ Research Institute in Berkeley, California, supported by the National Science
 Foundation under Grant No. 1440140. During the academic year of 2018-2019 I was
 supported by the University of Washington Department of Mathematics Graduate
 Research Fellowship.
-
-<!-- I would like to acknowledge that I am on the traditional land of the first
-peoples of Seattle, the [Duwamish](https://www.duwamishtribe.org/) and
-[Suquamish](https://suquamish.nsn.us/) People past and present, and honor with
-gratitude the land itself and these Tribes. -->
-
-
-
