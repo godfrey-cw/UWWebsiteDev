@@ -42,6 +42,9 @@ positive and mixed characteristic.
 
 ## Preprints
 
+1. Henry Kvinge, Davis Brown and Charles Godfrey. [Exploring the Representation
+   Manifolds of Stable Diffusion Through the Lens of Intrinsic
+   Dimension](https://arxiv.org/abs/2302.09301) (2023).
 1. [Correspondences in log Hodge cohomology](https://arxiv.org/abs/2301.00517) (2023).
 1. Henry Kvinge, Grayson Jorgenson, Davis Brown, Charles Godfrey and Tegan
    Emerson. [Neural frames: A Tool for Studying the Tangent Bundles Underlying
