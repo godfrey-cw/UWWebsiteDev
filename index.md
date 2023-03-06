@@ -27,6 +27,20 @@ positive and mixed characteristic.
 
 ## Publications
 
+1. Charles Godfrey, Michael Rawson, Henry Kvinge and Davis
+   Brown. Fast computation of permutation equivariant layers with the partition
+   algebra. In *ICLR 2023 Workshop on Physics for Machine Learning* (preprint
+   coming soon!). 
+1. Davis Brown, Charles Godfrey (equal contribution), Cody
+   Nizinski, Jonathan Tu, Henry Kvinge.
+   [Robustness of edited neural
+   networks](https://arxiv.org/abs/2303.00046). In *ICLR 2023 Workshop on Mathematical and Empirical
+   Understanding of Foundation Models*. 
+1. Henry Kvinge, Davis Brown and Charles Godfrey.
+   [Exploring the Representation
+   Manifolds of Stable Diffusion Through the Lens of Intrinsic Dimension](https://arxiv.org/abs/2302.09301). In
+   *ICLR 2023 Workshop on Mathematical and Empirical
+   Understanding of Foundation Models*. 
 1. Charles Godfrey, Davis Brown (equal contribution), Tegan Emerson and Henry Kvinge. [On
   the Symmetries of Deep Learning Models and their Internal
   Representations](https://arxiv.org/abs/2205.14258). To appear in *NeurIPS
@@ -42,6 +56,8 @@ positive and mixed characteristic.
 
 ## Preprints
 
+1. [Correspondences in log Hodge cohomology](https://arxiv.org/abs/2301.00517)
+    (2023).
 1. Henry Kvinge, Davis Brown and Charles Godfrey. [Exploring the Representation
    Manifolds of Stable Diffusion Through the Lens of Intrinsic
    Dimension](https://arxiv.org/abs/2302.09301) (2023).
