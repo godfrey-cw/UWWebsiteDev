@@ -45,12 +45,12 @@ positive and mixed characteristic.
   the Symmetries of Deep Learning Models and their Internal
   Representations](https://arxiv.org/abs/2205.14258). To appear in *NeurIPS
   2022*. Code available at [https://github.com/pnnl/modelsym](github.com/pnnl/modelsym)
-2. Elizabeth Coda, Nico Courts, Colby Wight, Loc Truong, WoongJo Choi, Charles
+1. Elizabeth Coda, Nico Courts, Colby Wight, Loc Truong, WoongJo Choi, Charles
    Godfrey, Tegan Emerson, Keerti Kappagantula and Henry Kvinge. [Fiber bundle
    morphisms as a framework for modeling many-to-many
    maps](https://arxiv.org/abs/2203.08189). In *ICLR 2022 workshop on
    geometrical and topological representation learning*.
-3. [Higher Direct Images of Ideal Sheaves, Correspondences in Log Hodge
+1. [Higher Direct Images of Ideal Sheaves, Correspondences in Log Hodge
   Cohomology and Globally F-Full Varieties](/assets/pdfs/thesis.pdf). PhD
   thesis, University of Washington 2021.  
 
@@ -71,7 +71,9 @@ positive and mixed characteristic.
 
 ## Upcoming talks
 
-1. February 29th, 2023. [Boston College Math & Machine Learning Seminar](https://sites.google.com/view/bcmmlseminar).
+1. May 4th, 2032: [SPIE Defense + Commercial Sensing
+   2023](https://www.spie.org/conferences-and-exhibitions/defense-and-commercial-sensing?SSO=1).
+1. May 5th, 2023: [ICLR 2023 Workshop on Physics for Machine Learning](https://physics4ml.github.io/).
 
 
 # Axioms
@@ -85,7 +87,7 @@ I believe in [Federico Ardila's](http://math.sfsu.edu/federico/)
 
 - **Axiom 3**. Mathematics is a powerful, malleable tool that can be shaped and used differently by various communities to serve their needs.
 
-- **Axiom 4**. Every student deserves to be treated with dignity and respect.   
+- **Axiom 4**. Every student deserves to be treated with dignity and respect.
 
 # Acknowledgments
 
