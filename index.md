@@ -28,9 +28,8 @@ positive and mixed characteristic.
 ## Publications
 
 1. Charles Godfrey, Michael Rawson, Henry Kvinge and Davis
-   Brown. Fast computation of permutation equivariant layers with the partition
-   algebra. In *ICLR 2023 Workshop on Physics for Machine Learning* (preprint
-   coming soon!). 
+   Brown. [Fast computation of permutation equivariant layers with the partition
+   algebra](https://arxiv.org/abs/2303.06208). In *ICLR 2023 Workshop on Physics for Machine Learning*. 
 1. Davis Brown, Charles Godfrey (equal contribution), Cody
    Nizinski, Jonathan Tu, Henry Kvinge.
    [Robustness of edited neural
@@ -71,7 +70,7 @@ positive and mixed characteristic.
 
 ## Upcoming talks
 
-1. May 4th, 2032: [SPIE Defense + Commercial Sensing
+1. May 4th, 2023: [SPIE Defense + Commercial Sensing
    2023](https://www.spie.org/conferences-and-exhibitions/defense-and-commercial-sensing?SSO=1).
 1. May 5th, 2023: [ICLR 2023 Workshop on Physics for Machine Learning](https://physics4ml.github.io/).
 

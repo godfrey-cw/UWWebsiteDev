@@ -17,7 +17,7 @@ theme: minima
 title: Charlie Godfrey
 header_pages:
 - index.md
-- teaching/index.md
+# - teaching/index.md see git history to resurrect
 - CV.md
 # - about.md
 
