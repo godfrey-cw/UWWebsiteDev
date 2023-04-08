@@ -27,6 +27,10 @@ positive and mixed characteristic.
 
 ## Publications
 
+1. Charles Godfrey, Henry Kvinge, Elise Bishoff, Myles Mckay, Davis Brown, Tim
+    Doster and Eleanor Byler. [How many dimensions are required to find an
+    adversarial example?](https://arxiv.org/abs/2303.14173). In *The 3rd
+    Workshop of Adversarial Machine Learning on Computer Vision at CVPR 2023*.
 1. Charles Godfrey, Michael Rawson, Henry Kvinge and Davis
    Brown. [Fast computation of permutation equivariant layers with the partition
    algebra](https://arxiv.org/abs/2303.06208). In *ICLR 2023 Workshop on Physics for Machine Learning*. 
@@ -70,6 +74,8 @@ positive and mixed characteristic.
 
 ## Upcoming talks
 
+1. June 5-9, 2023: [ICERM Mathematical and Scientific Machine Learning
+   Workshop](https://icerm.brown.edu/topical_workshops/tw-23-msml/).  
 1. May 4th, 2023: [SPIE Defense + Commercial Sensing
    2023](https://www.spie.org/conferences-and-exhibitions/defense-and-commercial-sensing?SSO=1).
 1. May 5th, 2023: [ICLR 2023 Workshop on Physics for Machine Learning](https://physics4ml.github.io/).
