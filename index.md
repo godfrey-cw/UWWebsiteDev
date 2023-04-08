@@ -29,7 +29,7 @@ positive and mixed characteristic.
 
 1. Charles Godfrey, Henry Kvinge, Elise Bishoff, Myles Mckay, Davis Brown, Tim
     Doster and Eleanor Byler. [How many dimensions are required to find an
-    adversarial example?](https://arxiv.org/abs/2303.14173). In *The 3rd
+    adversarial example?](https://arxiv.org/abs/2303.14173) In *The 3rd
     Workshop of Adversarial Machine Learning on Computer Vision at CVPR 2023*.
 1. Charles Godfrey, Michael Rawson, Henry Kvinge and Davis
    Brown. [Fast computation of permutation equivariant layers with the partition
