@@ -27,6 +27,9 @@ positive and mixed characteristic.
 
 ## Publications
 
+1.  Kelsey Lieberman, James Diffenderfer, Charles Godfrey and
+    Bhavya Kailkhura. [Neural
+    Image Compression: Generalization, Robustness, and Spectral Biases](https://openreview.net/forum?id=TEcYuwCS6v). In *ICML 2023 Workshop Neural Compression: From Information Theory to Applications*.
 1. Charles Godfrey, Henry Kvinge, Elise Bishoff, Myles Mckay, Davis Brown, Tim
     Doster and Eleanor Byler. [How many dimensions are required to find an
     adversarial example?](https://arxiv.org/abs/2303.14173) In *The 3rd
@@ -72,7 +75,7 @@ positive and mixed characteristic.
 1. [Higher direct images of ideal sheaves](https://arxiv.org/abs/2207.01142) (2022).
 
 
-## Upcoming talks
+## Upcoming/Recent Talks
 
 1. June 5-9, 2023: [ICERM Mathematical and Scientific Machine Learning
    Workshop](https://icerm.brown.edu/topical_workshops/tw-23-msml/).  
