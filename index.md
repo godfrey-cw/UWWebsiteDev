@@ -15,42 +15,43 @@ Kov&aacute;cs](http://sites.math.washington.edu/~kovacs/current/index.html).
 
 # Research
 
-I am interested in holistic evaluation of deep learning models, including 
-
-- feature (dis)similarity, 
-- explainability and interpretability, 
-- bias and  
-- robustness.
+I am interested in holistic evaluation of deep learning models, including bias,
+robustness, explainability and interpretability, and post-hoc analysis of
+learned features (e.g. representation (dis)similarity metrics). For the most
+part I have worked with computer vision classifiers/segmenters, but more recently I have
+experimented with natural language models, of both the generation (GPT) and
+understanding (BERT) varieties.
 
 My pure math research focused on birational geometry and singularities, mostly in
 positive and mixed characteristic.
 
 ## Publications
 
-1.  Kelsey Lieberman, James Diffenderfer, Charles Godfrey and
-    Bhavya Kailkhura. [Neural
-    Image Compression: Generalization, Robustness, and Spectral Biases](https://openreview.net/forum?id=TEcYuwCS6v). In *ICML 2023 Workshop Neural Compression: From Information Theory to Applications*.
+1.  Kelsey Lieberman, James Diffenderfer, Charles Godfrey and Bhavya Kailkhura.
+    [Neural Image Compression: Generalization, Robustness, and Spectral
+    Biases](https://openreview.net/forum?id=TEcYuwCS6v). In *ICML 2023 Workshop
+    Neural Compression: From Information Theory to Applications*.
 1. Charles Godfrey, Henry Kvinge, Elise Bishoff, Myles Mckay, Davis Brown, Tim
     Doster and Eleanor Byler. [How many dimensions are required to find an
-    adversarial example?](https://arxiv.org/abs/2303.14173) In *The 3rd
-    Workshop of Adversarial Machine Learning on Computer Vision at CVPR 2023*.
-1. Charles Godfrey, Michael Rawson, Henry Kvinge and Davis
-   Brown. [Fast computation of permutation equivariant layers with the partition
-   algebra](https://arxiv.org/abs/2303.06208). In *ICLR 2023 Workshop on Physics for Machine Learning*. 
-1. Davis Brown, Charles Godfrey (equal contribution), Cody
-   Nizinski, Jonathan Tu, Henry Kvinge.
-   [Robustness of edited neural
-   networks](https://arxiv.org/abs/2303.00046). In *ICLR 2023 Workshop on Mathematical and Empirical
-   Understanding of Foundation Models*. 
-1. Henry Kvinge, Davis Brown and Charles Godfrey.
-   [Exploring the Representation
-   Manifolds of Stable Diffusion Through the Lens of Intrinsic Dimension](https://arxiv.org/abs/2302.09301). In
-   *ICLR 2023 Workshop on Mathematical and Empirical
-   Understanding of Foundation Models*. 
-1. Charles Godfrey, Davis Brown (equal contribution), Tegan Emerson and Henry Kvinge. [On
-  the Symmetries of Deep Learning Models and their Internal
+    adversarial example?](https://arxiv.org/abs/2303.14173) In *The 3rd Workshop
+    of Adversarial Machine Learning on Computer Vision at CVPR 2023*.
+1. Charles Godfrey, Michael Rawson, Henry Kvinge and Davis Brown. [Fast
+   computation of permutation equivariant layers with the partition
+   algebra](https://arxiv.org/abs/2303.06208). In *ICLR 2023 Workshop on Physics
+   for Machine Learning*. 
+1. Davis Brown, Charles Godfrey (equal contribution), Cody Nizinski, Jonathan
+   Tu, Henry Kvinge. [Robustness of edited neural
+   networks](https://arxiv.org/abs/2303.00046). In *ICLR 2023 Workshop on
+   Mathematical and Empirical Understanding of Foundation Models*. 
+1. Henry Kvinge, Davis Brown and Charles Godfrey. [Exploring the Representation
+   Manifolds of Stable Diffusion Through the Lens of Intrinsic
+   Dimension](https://arxiv.org/abs/2302.09301). In *ICLR 2023 Workshop on
+   Mathematical and Empirical Understanding of Foundation Models*. 
+1. Charles Godfrey, Davis Brown (equal contribution), Tegan Emerson and Henry
+  Kvinge. [On the Symmetries of Deep Learning Models and their Internal
   Representations](https://arxiv.org/abs/2205.14258). To appear in *NeurIPS
-  2022*. Code available at [https://github.com/pnnl/modelsym](github.com/pnnl/modelsym)
+  2022*. Code available at
+  [https://github.com/pnnl/modelsym](github.com/pnnl/modelsym)
 1. Elizabeth Coda, Nico Courts, Colby Wight, Loc Truong, WoongJo Choi, Charles
    Godfrey, Tegan Emerson, Keerti Kappagantula and Henry Kvinge. [Fiber bundle
    morphisms as a framework for modeling many-to-many
