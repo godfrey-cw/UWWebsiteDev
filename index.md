@@ -35,7 +35,8 @@ positive and mixed characteristic.
 1. Charles Godfrey, Henry Kvinge, Elise Bishoff, Myles Mckay, Davis Brown, Tim
     Doster and Eleanor Byler. [How many dimensions are required to find an
     adversarial example?](https://arxiv.org/abs/2303.14173) In *The 3rd Workshop
-    of Adversarial Machine Learning on Computer Vision at CVPR 2023*.
+    of Adversarial Machine Learning on Computer Vision at CVPR 2023*, **selected
+    for oral presentation.**
 1. Charles Godfrey, Michael Rawson, Henry Kvinge and Davis Brown. [Fast
    computation of permutation equivariant layers with the partition
    algebra](https://arxiv.org/abs/2303.06208). In *ICLR 2023 Workshop on Physics
@@ -47,10 +48,11 @@ positive and mixed characteristic.
 1. Henry Kvinge, Davis Brown and Charles Godfrey. [Exploring the Representation
    Manifolds of Stable Diffusion Through the Lens of Intrinsic
    Dimension](https://arxiv.org/abs/2302.09301). In *ICLR 2023 Workshop on
-   Mathematical and Empirical Understanding of Foundation Models*. 
+   Mathematical and Empirical Understanding of Foundation Models*, [**featured
+   in The Gradient**](https://thegradientpub.substack.com/p/challenges-for-personal-robotics?utm_source=profile&utm_medium=reader2). 
 1. Charles Godfrey, Davis Brown (equal contribution), Tegan Emerson and Henry
   Kvinge. [On the Symmetries of Deep Learning Models and their Internal
-  Representations](https://arxiv.org/abs/2205.14258). To appear in *NeurIPS
+  Representations](https://arxiv.org/abs/2205.14258). In *NeurIPS
   2022*. Code available at
   [https://github.com/pnnl/modelsym](github.com/pnnl/modelsym)
 1. Elizabeth Coda, Nico Courts, Colby Wight, Loc Truong, WoongJo Choi, Charles
@@ -72,6 +74,7 @@ positive and mixed characteristic.
 1. Charles Godfrey, Elise Bishoff, Myles Mckay, Davis Brown, Grayson Jorgenson,
    Henry Kvinge and Eleanor Byler. [Convolutional networks inherit frequency
    sensitivity from image statistics](https://arxiv.org/abs/2210.01257) (2022).
+   Code available at [https://github.com/pnnl/frequency_sensitivity](https://github.com/pnnl/frequency_sensitivity).
 1. Takumi Murayama and Charles Godfrey. [Pure subrings of du bois singularities
    are du bois singularities](https://arxiv.org/abs/2208.14429) (2022).
 1. [Higher direct images of ideal sheaves](https://arxiv.org/abs/2207.01142) (2022).
