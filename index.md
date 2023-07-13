@@ -7,11 +7,13 @@ layout: home
 I'm a postdoctoral research associate at Pacific Northwest National Lab, working
 in the Math of Data Science group with [Henry
 Kvinge](https://hkvinge.github.io/) and [Tegan
-Emerson](https://scholar.google.com/citations?user=sxRHY7MAAAAJ).
+Emerson](https://scholar.google.com/citations?user=sxRHY7MAAAAJ). 
 
 Previously I completed a PhD in mathematics (algebraic geometry) at the University
 of Washington, where my advisor was [S&aacute;ndor
 Kov&aacute;cs](http://sites.math.washington.edu/~kovacs/current/index.html).
+
+
 
 # Research
 
