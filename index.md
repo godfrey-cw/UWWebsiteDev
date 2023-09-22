@@ -7,19 +7,17 @@ layout: home
 I'm a postdoctoral research associate at Pacific Northwest National Lab, working
 in the Math of Data Science group with [Henry
 Kvinge](https://hkvinge.github.io/) and [Tegan
-Emerson](https://scholar.google.com/citations?user=sxRHY7MAAAAJ). 
+Emerson](https://scholar.google.com/citations?user=sxRHY7MAAAAJ).
 
 Previously I completed a PhD in mathematics (algebraic geometry) at the University
 of Washington, where my advisor was [S&aacute;ndor
 Kov&aacute;cs](http://sites.math.washington.edu/~kovacs/current/index.html).
 
-
-
 # Research
 
 I am interested in holistic evaluation of deep learning models, including bias,
 robustness, explainability and interpretability, and post-hoc analysis of
-learned features (e.g. representation (dis)similarity metrics). 
+learned features (e.g. representation (dis)similarity metrics).
 <!-- For the most
 part I have worked with computer vision classifiers/segmenters, but more recently I have
 experimented with natural language models, of both the generation (GPT) and
@@ -30,10 +28,21 @@ positive and mixed characteristic.
 
 ## Publications
 
-1.  Kelsey Lieberman, James Diffenderfer, Charles Godfrey and Bhavya Kailkhura.
+### Main Track
+
+1. Kelsey Lieberman, James Diffenderfer, Charles Godfrey and Bhavya Kailkhura.
     [Neural Image Compression: Generalization, Robustness, and Spectral
-    Biases](https://openreview.net/forum?id=TEcYuwCS6v). In *ICML 2023 Workshop
-    Neural Compression: From Information Theory to Applications*.
+    Biases](https://openreview.net/forum?id=TEcYuwCS6v). In *NeurIPS 2022* (was
+  also selected for an oral presentation at *ICML 2023 Workshop Neural
+    Compression: From Information Theory to Applications*).
+1. Charles Godfrey, Davis Brown (equal contribution), Tegan Emerson and Henry
+  Kvinge. [On the Symmetries of Deep Learning Models and their Internal
+  Representations](https://arxiv.org/abs/2205.14258). In *NeurIPS
+  2022*. Code available at
+  [https://github.com/pnnl/modelsym](github.com/pnnl/modelsym).
+
+### Workshop
+
 1. Charles Godfrey, Henry Kvinge, Elise Bishoff, Myles Mckay, Davis Brown, Tim
     Doster and Eleanor Byler. [How many dimensions are required to find an
     adversarial example?](https://arxiv.org/abs/2303.14173) In *The 3rd Workshop
@@ -42,29 +51,22 @@ positive and mixed characteristic.
 1. Charles Godfrey, Michael Rawson, Henry Kvinge and Davis Brown. [Fast
    computation of permutation equivariant layers with the partition
    algebra](https://arxiv.org/abs/2303.06208). In *ICLR 2023 Workshop on Physics
-   for Machine Learning*. 
+   for Machine Learning*.
 1. Davis Brown, Charles Godfrey (equal contribution), Cody Nizinski, Jonathan
    Tu, Henry Kvinge. [Robustness of edited neural
    networks](https://arxiv.org/abs/2303.00046). In *ICLR 2023 Workshop on
-   Mathematical and Empirical Understanding of Foundation Models*. 
+   Mathematical and Empirical Understanding of Foundation Models*.
 1. Henry Kvinge, Davis Brown and Charles Godfrey. [Exploring the Representation
    Manifolds of Stable Diffusion Through the Lens of Intrinsic
    Dimension](https://arxiv.org/abs/2302.09301). In *ICLR 2023 Workshop on
    Mathematical and Empirical Understanding of Foundation Models*, [**featured
-   in The Gradient**](https://thegradientpub.substack.com/p/challenges-for-personal-robotics?utm_source=profile&utm_medium=reader2). 
-1. Charles Godfrey, Davis Brown (equal contribution), Tegan Emerson and Henry
-  Kvinge. [On the Symmetries of Deep Learning Models and their Internal
-  Representations](https://arxiv.org/abs/2205.14258). In *NeurIPS
-  2022*. Code available at
-  [https://github.com/pnnl/modelsym](github.com/pnnl/modelsym)
+   in The
+   Gradient**](https://thegradientpub.substack.com/p/challenges-for-personal-robotics?utm_source=profile&utm_medium=reader2).
 1. Elizabeth Coda, Nico Courts, Colby Wight, Loc Truong, WoongJo Choi, Charles
    Godfrey, Tegan Emerson, Keerti Kappagantula and Henry Kvinge. [Fiber bundle
    morphisms as a framework for modeling many-to-many
-   maps](https://arxiv.org/abs/2203.08189). In *ICLR 2022 workshop on
-   geometrical and topological representation learning*.
-1. [Higher Direct Images of Ideal Sheaves, Correspondences in Log Hodge
-  Cohomology and Globally F-Full Varieties](/assets/pdfs/thesis.pdf). PhD
-  thesis, University of Washington 2021.  
+   maps](https://arxiv.org/abs/2203.08189). In *ICLR 2022 Workshop on
+   Geometrical and Topological Representation Learning*.
 
 ## Preprints
 
@@ -81,15 +83,12 @@ positive and mixed characteristic.
    are du bois singularities](https://arxiv.org/abs/2208.14429) (2022).
 1. [Higher direct images of ideal sheaves](https://arxiv.org/abs/2207.01142) (2022).
 
-
 ## Upcoming/Recent Talks
 
 1. June 5-9, 2023: [ICERM Mathematical and Scientific Machine Learning
    Workshop](https://icerm.brown.edu/topical_workshops/tw-23-msml/).  
 1. May 4th, 2023: [SPIE Defense + Commercial Sensing
    2023](https://www.spie.org/conferences-and-exhibitions/defense-and-commercial-sensing?SSO=1).
-1. May 5th, 2023: [ICLR 2023 Workshop on Physics for Machine Learning](https://physics4ml.github.io/).
-
 
 # Axioms
 
