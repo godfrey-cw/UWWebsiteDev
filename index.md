@@ -32,7 +32,7 @@ positive and mixed characteristic.
 
 1. Kelsey Lieberman, James Diffenderfer, Charles Godfrey and Bhavya Kailkhura.
     [Neural Image Compression: Generalization, Robustness, and Spectral
-    Biases](https://openreview.net/forum?id=TEcYuwCS6v). In *NeurIPS 2022* (was
+    Biases](https://openreview.net/forum?id=TEcYuwCS6v). In *NeurIPS 2023* (was
   also selected for an oral presentation at *ICML 2023 Workshop Neural
     Compression: From Information Theory to Applications*).
 1. Charles Godfrey, Davis Brown (equal contribution), Tegan Emerson and Henry
@@ -62,6 +62,7 @@ positive and mixed characteristic.
    Mathematical and Empirical Understanding of Foundation Models*, [**featured
    in The
    Gradient**](https://thegradientpub.substack.com/p/challenges-for-personal-robotics?utm_source=profile&utm_medium=reader2).
+1. Charles Godfrey, Elise Bishoff, Myles McKay and Eleanor Byler. [Impact of architecture on robustness and interpretability of multispectral deep neural networks](https://arxiv.org/abs/2309.12463). In *SPIE Defense + Commercial Sensing 2023*.
 1. Elizabeth Coda, Nico Courts, Colby Wight, Loc Truong, WoongJo Choi, Charles
    Godfrey, Tegan Emerson, Keerti Kappagantula and Henry Kvinge. [Fiber bundle
    morphisms as a framework for modeling many-to-many
@@ -76,11 +77,11 @@ positive and mixed characteristic.
    Image Datasets and How Deep Learning Models Process
    Them](https://arxiv.org/abs/2211.10558) (2022).
 1. Charles Godfrey, Elise Bishoff, Myles Mckay, Davis Brown, Grayson Jorgenson,
-   Henry Kvinge and Eleanor Byler. [Convolutional networks inherit frequency
-   sensitivity from image statistics](https://arxiv.org/abs/2210.01257) (2022).
-   Code available at [https://github.com/pnnl/frequency_sensitivity](https://github.com/pnnl/frequency_sensitivity).
-1. Takumi Murayama and Charles Godfrey. [Pure subrings of du bois singularities
-   are du bois singularities](https://arxiv.org/abs/2208.14429) (2022).
+   Henry Kvinge and Eleanor Byler. [Testing predictions of representation cost
+theory with CNNs ](https://arxiv.org/abs/2210.01257) (2022). Code available at
+   [https://github.com/pnnl/frequency_sensitivity](https://github.com/pnnl/frequency_sensitivity).
+1. Takumi Murayama and Charles Godfrey. [Pure subrings of Du Bois singularities
+   are Du Bois singularities](https://arxiv.org/abs/2208.14429) (2022).
 1. [Higher direct images of ideal sheaves](https://arxiv.org/abs/2207.01142) (2022).
 
 ## Upcoming/Recent Talks
