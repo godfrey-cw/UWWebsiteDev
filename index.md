@@ -30,6 +30,10 @@ positive and mixed characteristic.
 
 ### Main Track
 
+1. Davis Brown, Charles Godfrey, Nicholas Konz, Jonathan Tu and Henry Kvinge.
+   [Understanding the Inner-workings of Language Models Through Representation
+   Dissimilarity](/assets/pdfs/understanding_the_inner_workings_emnlp2023.pdf).
+   In *EMNLP 2023*.
 1. Kelsey Lieberman, James Diffenderfer, Charles Godfrey and Bhavya Kailkhura.
     [Neural Image Compression: Generalization, Robustness, and Spectral
     Biases](https://openreview.net/forum?id=TEcYuwCS6v). In *NeurIPS 2023* (was
