@@ -37,7 +37,7 @@ positive and mixed characteristic.
 
 1. Davis Brown, Charles Godfrey, Nicholas Konz, Jonathan Tu and Henry Kvinge.
    [Understanding the Inner-workings of Language Models Through Representation
-   Dissimilarity](/assets/pdfs/understanding_the_inner_workings_emnlp2023.pdf).
+   Dissimilarity](https://arxiv.org/abs/2310.14993).
    In *EMNLP 2023*.
 1. Kelsey Lieberman, James Diffenderfer, Charles Godfrey and Bhavya Kailkhura.
     [Neural Image Compression: Generalization, Robustness, and Spectral
@@ -52,6 +52,10 @@ positive and mixed characteristic.
 
 ### Workshop
 
+1. Nicholas Konz, Charles Godfrey, Madelyn Shapiro, Jonathan Tu, Henry
+    Kvinge and  Davis Brown. [Attributing Learned Concepts in Neural Networks to
+    Training Data](https://arxiv.org/abs/2310.03149). In *The 1st Workshop on
+    Attributing Model Behavior at Scale at NeurIPS 2023*, **selected for oral presentation**.
 1. Charles Godfrey, Henry Kvinge, Elise Bishoff, Myles Mckay, Davis Brown, Tim
     Doster and Eleanor Byler. [How many dimensions are required to find an
     adversarial example?](https://arxiv.org/abs/2303.14173) In *The 3rd Workshop
