@@ -7,7 +7,8 @@ layout: home
 I am a machine learning scientist at [Thomson Reuters
 Labs](https://www.thomsonreuters.com/en/careers/our-jobs/join-thomson-reuters-labs.html),
 working on machine learning models embedded as components of search systems,
-including re-ranking, dense retrieval (a.k.a. vector search) and
+including re-ranking, dense retrieval (vector search using vector embeddings and
+approximate nearest neighbors algorithms) and
 retrieval-augmented generation with large language models (LLMs).
 
 Previously I was a postdoctoral research associate at [Pacific Northwest
