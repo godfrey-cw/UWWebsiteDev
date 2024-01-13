@@ -4,51 +4,33 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
 
 # lots of changes upcoming ... see the github readme 
-# minima:
-#   skin: classic
+minima:
+  skin: auto 
+  social_links:
+    - { platform: github,  user_url: "https://github.com/godfrey-cw" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/godfrey-cw/" }
 
-# # custom domain name, breaks gh-pages
-# baseurl: "/~cgodfrey" 
-# url: "https://math.washington.edu/" 
-
-title: Charlie Godfrey
+title: Charles Godfrey
 header_pages:
 - index.md
-# - teaching/index.md see git history to resurrect
 - resume.md
-# - about.md
 
 description: >
   Home Page
   
-# author: Charles Godfrey
-email: "godfrey.cw@gmail.com"
-
-github_username:  godfrey-cw
-linkedin_username: godfrey-cw
+author:  
+  name: Charles Godfrey
+  email: "godfrey.cw@gmail.com"
 
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-scholar
   - jekyll-redirect-from
-
-# switches from mathjax to katex
-# also need to update head.html
-# note: reaaaaally slow :(
-# kramdown:
-#   math_engine: katex
-#   math_engine_opts: {}
-
-scholar:
-  source: /_bibliography
-  bibliography: website.bib
-  sort_by: author
-  # style: 
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
