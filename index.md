@@ -41,15 +41,15 @@ positive and mixed characteristic.
    In *EMNLP 2023*.
 1. Kelsey Lieberman, James Diffenderfer, Charles Godfrey and Bhavya Kailkhura.
     [Neural Image Compression: Generalization, Robustness, and Spectral
-    Biases](https://openreview.net/forum?id=TEcYuwCS6v). In *NeurIPS 2023* (was
+    Biases](https://arxiv.org/abs/2307.08657). In *NeurIPS 2023* (was
   also selected for an oral presentation at *ICML 2023 Workshop Neural
     Compression: From Information Theory to Applications*). Code available at
-  [https://github.com/klieberman/ood_nic](github.com/klieberman/ood_nic)
+  [github.com/klieberman/ood_nic](https://github.com/klieberman/ood_nic)
 1. Charles Godfrey, Davis Brown (equal contribution), Tegan Emerson and Henry
   Kvinge. [On the Symmetries of Deep Learning Models and their Internal
   Representations](https://arxiv.org/abs/2205.14258). In *NeurIPS
   2022*. Code available at
-  [https://github.com/pnnl/modelsym](github.com/pnnl/modelsym).
+  [github.com/pnnl/modelsym](https://github.com/pnnl/modelsym).
 
 ### Workshop
 
