@@ -47,9 +47,9 @@ positive and mixed characteristic.
   [github.com/klieberman/ood_nic](https://github.com/klieberman/ood_nic)
 1. Charles Godfrey, Davis Brown (equal contribution), Tegan Emerson and Henry
   Kvinge. [On the Symmetries of Deep Learning Models and their Internal
-  Representations](https://papers.nips.cc/paper_files/paper/2022/hash/4df3510ad02a86d69dc32388d91606f8-Abstract-Conference.html). In *NeurIPS
-  2022*. Code available at
-  [github.com/pnnl/modelsym](https://github.com/pnnl/modelsym).
+  Representations](https://papers.nips.cc/paper_files/paper/2022/hash/4df3510ad02a86d69dc32388d91606f8-Abstract-Conference.html).
+  In *NeurIPS 2022*. Code available at
+  [github.com/pnnl/modelsym](https://github.com/pnnl/modelsym). 
 
 ### Workshop
 
