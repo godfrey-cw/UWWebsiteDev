@@ -43,7 +43,8 @@ positive and mixed characteristic.
     [Neural Image Compression: Generalization, Robustness, and Spectral
     Biases](https://openreview.net/forum?id=TEcYuwCS6v). In *NeurIPS 2023* (was
   also selected for an oral presentation at *ICML 2023 Workshop Neural
-    Compression: From Information Theory to Applications*).
+    Compression: From Information Theory to Applications*). Code available at
+  [https://github.com/klieberman/ood_nic](github.com/klieberman/ood_nic)
 1. Charles Godfrey, Davis Brown (equal contribution), Tegan Emerson and Henry
   Kvinge. [On the Symmetries of Deep Learning Models and their Internal
   Representations](https://arxiv.org/abs/2205.14258). In *NeurIPS
@@ -97,12 +98,13 @@ theory with CNNs ](https://arxiv.org/abs/2210.01257) (2022). Code available at
    are Du Bois singularities](https://arxiv.org/abs/2208.14429) (2022).
 1. [Higher direct images of ideal sheaves](https://arxiv.org/abs/2207.01142) (2022).
 
+<!-- 
 ## Upcoming/Recent Talks
 
 1. June 5-9, 2023: [ICERM Mathematical and Scientific Machine Learning
    Workshop](https://icerm.brown.edu/topical_workshops/tw-23-msml/).  
 1. May 4th, 2023: [SPIE Defense + Commercial Sensing
-   2023](https://www.spie.org/conferences-and-exhibitions/defense-and-commercial-sensing?SSO=1).
+   2023](https://www.spie.org/conferences-and-exhibitions/defense-and-commercial-sensing?SSO=1). -->
 
 # Axioms
 
