@@ -4,7 +4,7 @@
 layout: home
 ---
 
-I am a machine learning scientist at [Thomson Reuters
+I am a scientist at [Thomson Reuters
 Labs](https://www.thomsonreuters.com/en/careers/our-jobs/join-thomson-reuters-labs.html),
 working on machine learning models embedded as components of search systems,
 including re-ranking, dense retrieval (a.k.a. vector search) and
@@ -49,7 +49,7 @@ positive and mixed characteristic.
   Kvinge. [On the Symmetries of Deep Learning Models and their Internal
   Representations](https://papers.nips.cc/paper_files/paper/2022/hash/4df3510ad02a86d69dc32388d91606f8-Abstract-Conference.html).
   In *NeurIPS 2022*. Code available at
-  [github.com/pnnl/modelsym](https://github.com/pnnl/modelsym). 
+  [github.com/pnnl/modelsym](https://github.com/pnnl/modelsym).
 
 ### Workshop
 

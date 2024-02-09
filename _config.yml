@@ -6,24 +6,29 @@
 # Build settings
 remote_theme: jekyll/minima
 
-# lots of changes upcoming ... see the github readme 
+# lots of changes upcoming ... see the github readme
 minima:
-  skin: auto 
+  skin: auto
   social_links:
-    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?hl=en&pli=1&user=yfT92d4AAAAJ" }
-    - { platform: github,  user_url: "https://github.com/godfrey-cw" }
-    - { platform: linkedin, user_url: "https://www.linkedin.com/in/godfrey-cw/"
-    }
+    - {
+        platform: google_scholar,
+        user_url: "https://scholar.google.com/citations?hl=en&pli=1&user=yfT92d4AAAAJ",
+      }
+    - { platform: github, user_url: "https://github.com/godfrey-cw" }
+    - {
+        platform: linkedin,
+        user_url: "https://www.linkedin.com/in/godfrey-cw/",
+      }
 
 title: Charles Godfrey
 header_pages:
-- index.md
-- resume.md
+  - index.md
+  - resume.md
 
 description: >
   Home Page
-  
-author:  
+
+author:
   name: Charles Godfrey
   email: "godfrey.cw@gmail.com"
 
@@ -54,4 +59,3 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - quick_update.zsh
-
