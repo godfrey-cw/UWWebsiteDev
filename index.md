@@ -4,11 +4,14 @@
 layout: home
 ---
 
-I am a scientist at [Thomson Reuters
+I am a machine learning scientist at [Thomson Reuters
 Labs](https://www.thomsonreuters.com/en/careers/our-jobs/join-thomson-reuters-labs.html),
-working on machine learning models embedded as components of search systems,
-including re-ranking, dense retrieval (a.k.a. vector search) and
-retrieval-augmented generation with large language models (LLMs).
+working on AI agents for knowledge workers. My focus areas include evaluations
+(rubric design for human expert evaluation, curation of benchmarking datasets,
+"auto"-evaluation a.k.a. LLM-as-judge) and patterns of large language model
+agent design. In prior work at TR Labs I have worked on machine learning models
+embedded as components of search systems, including re-ranking, dense retrieval
+(a.k.a. vector search) and retrieval-augmented generation.
 
 Previously I was a postdoctoral research associate at [Pacific Northwest
 National Lab](https://www.pnnl.gov/), working in [Tegan
@@ -85,7 +88,7 @@ positive and mixed characteristic.
 
 ## Preprints
 
-1. Charles Godfrey, Ping Nie, Natalia Ostapuk, David Ken, Shang Gao and Souheil Inati. [Likert or Not: LLM Absolute Relevance Judgments on Fine-Grained Ordinal Scales](https://arxiv.org/abs/2505.19334) (2024).
+1. Charles Godfrey, Ping Nie, Natalia Ostapuk, David Ken, Shang Gao and Souheil Inati. [Likert or Not: LLM Absolute Relevance Judgments on Fine-Grained Ordinal Scales](https://arxiv.org/abs/2505.19334) (2025).
 1. [Correspondences in log Hodge cohomology](https://arxiv.org/abs/2301.00517) (2023).
 1. Henry Kvinge, Grayson Jorgenson, Davis Brown, Charles Godfrey and Tegan
    Emerson. [Neural frames: A Tool for Studying the Tangent Bundles Underlying
@@ -93,7 +96,7 @@ positive and mixed characteristic.
    Them](https://arxiv.org/abs/2211.10558) (2022).
 1. Charles Godfrey, Elise Bishoff, Myles Mckay, Davis Brown, Grayson Jorgenson,
    Henry Kvinge and Eleanor Byler. [Testing predictions of representation cost
-theory with CNNs ](https://arxiv.org/abs/2210.01257) (2022). Code available at
+theory with CNNs](https://arxiv.org/abs/2210.01257) (2022). Code available at
    [https://github.com/pnnl/frequency_sensitivity](https://github.com/pnnl/frequency_sensitivity).
 1. Takumi Murayama and Charles Godfrey. [Pure subrings of Du Bois singularities
    are Du Bois singularities](https://arxiv.org/abs/2208.14429) (2022).
