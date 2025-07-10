@@ -85,6 +85,7 @@ positive and mixed characteristic.
 
 ## Preprints
 
+1. Charles Godfrey, Ping Nie, Natalia Ostapuk, David Ken, Shang Gao and Souheil Inati. [Likert or Not: LLM Absolute Relevance Judgments on Fine-Grained Ordinal Scales](https://arxiv.org/abs/2505.19334) (2024).
 1. [Correspondences in log Hodge cohomology](https://arxiv.org/abs/2301.00517) (2023).
 1. Henry Kvinge, Grayson Jorgenson, Davis Brown, Charles Godfrey and Tegan
    Emerson. [Neural frames: A Tool for Studying the Tangent Bundles Underlying

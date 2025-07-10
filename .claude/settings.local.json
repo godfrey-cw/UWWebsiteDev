@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.arxiv.org)",
+      "Bash(./quick_update.zsh)",
+      "Bash(gem list:*)",
+      "Bash(gem:*)"
+    ],
+    "deny": []
+  }
+}
