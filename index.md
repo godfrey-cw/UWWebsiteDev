@@ -29,6 +29,8 @@ positive and mixed characteristic.
 
 ## Publications
 
+*Note: my [Google Scholar](https://scholar.google.com/citations?user=yfT92d4AAAAJ&hl=en) profile may be more complete and up to date.
+
 ### Main Track
 
 1. Davis Brown, Charles Godfrey, Nicholas Konz, Jonathan Tu and Henry Kvinge.
