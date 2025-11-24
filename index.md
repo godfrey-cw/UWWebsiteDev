@@ -4,26 +4,23 @@
 layout: home
 ---
 
-I am a machine learning scientist at [Thomson Reuters
-Labs](https://www.thomsonreuters.com/en/careers/our-jobs/join-thomson-reuters-labs.html),
-working on AI agents for knowledge workers. My focus areas include evaluations
-(rubric design for human expert evaluation, curation of benchmarking datasets,
-"auto"-evaluation a.k.a. LLM-as-judge) and patterns of large language model
-agent design. In prior work at TR Labs I have worked on machine learning models
-embedded as components of search systems, including re-ranking, dense retrieval
-(a.k.a. vector search) and retrieval-augmented generation.
+I’m a machine learning researcher at [AKASA](https://akasa.com/), where I work
+on end-to-end generative AI solutions for healthcare revenue cycle management.
 
-Previously I was a postdoctoral research associate at [Pacific Northwest
-National Lab](https://www.pnnl.gov/), working in [Tegan
-Emerson](https://scholar.google.com/citations?user=sxRHY7MAAAAJ)'s Math of Data
-Science group where my mentor was [Henry Kvinge](https://hkvinge.github.io/).
-Before that I completed a PhD in mathematics (algebraic geometry) at the
-University of Washington, advised by [S&aacute;ndor
-Kov&aacute;cs](http://sites.math.washington.edu/~kovacs/current/index.html).
+Previously, I was an applied machine learning scientist at [Thomson Reuters
+Labs](https://www.thomsonreuters.com/en/careers/our-jobs/join-thomson-reuters-labs.html),
+tuning AI agents for knowledge workers, and a postdoctoral research associate at
+[Pacific Northwest National Laboratory](https://www.pnnl.gov/) in Tegan
+Emerson’s Math of Data Science group, mentored by [Henry
+Kvinge](https://hkvinge.github.io/). Before that, I completed a PhD in
+mathematics (algebraic geometry) at the [University of
+Washington](https://math.washington.edu/), advised by [Sándor
+Kovács](http://sites.math.washington.edu/~kovacs/current/index.html).
 
 # Research
 
-I am interested in holistic evaluation of deep learning models, including bias,
+I work on applied research for LLM-driven machine learning systems. I am
+interested in holistic evaluation of deep learning models, including bias,
 robustness, explainability and interpretability, and post-hoc analysis of
 learned features (e.g. representation (dis)similarity metrics).
 
@@ -97,32 +94,3 @@ theory with CNNs](https://arxiv.org/abs/2210.01257) (2022). Code available at
 1. Takumi Murayama and Charles Godfrey. [Pure subrings of Du Bois singularities
    are Du Bois singularities](https://arxiv.org/abs/2208.14429) (2022).
 1. [Higher direct images of ideal sheaves](https://arxiv.org/abs/2207.01142) (2022).
-
-<!-- 
-## Upcoming/Recent Talks
-
-1. June 5-9, 2023: [ICERM Mathematical and Scientific Machine Learning
-   Workshop](https://icerm.brown.edu/topical_workshops/tw-23-msml/).  
-1. May 4th, 2023: [SPIE Defense + Commercial Sensing
-   2023](https://www.spie.org/conferences-and-exhibitions/defense-and-commercial-sensing?SSO=1). -->
-
-# Axioms
-
-I believe in [Federico Ardila's](http://math.sfsu.edu/federico/)
-[axioms](https://www.ams.org/publications/journals/notices/201610/rnoti-p1164.pdf):
-
-- **Axiom 1**. Mathematical potential is distributed equally among different groups, irrespective of geographic, demographic, and economic boundaries.
-
-- **Axiom 2**. Everyone can have joyful, meaningful, and empowering mathematical experiences.
-
-- **Axiom 3**. Mathematics is a powerful, malleable tool that can be shaped and used differently by various communities to serve their needs.
-
-- **Axiom 4**. Every student deserves to be treated with dignity and respect.
-
-# Acknowledgments
-
-During the spring of 2019 I was in residence at the Mathematical Sciences
-Research Institute in Berkeley, California, supported by the National Science
-Foundation under Grant No. 1440140. During the academic year of 2018-2019 I was
-supported by the University of Washington Department of Mathematics Graduate
-Research Fellowship.
