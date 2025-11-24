@@ -26,10 +26,6 @@ Kov&aacute;cs](http://sites.math.washington.edu/~kovacs/current/index.html).
 I am interested in holistic evaluation of deep learning models, including bias,
 robustness, explainability and interpretability, and post-hoc analysis of
 learned features (e.g. representation (dis)similarity metrics).
-<!-- For the most
-part I have worked with computer vision classifiers/segmenters, but more recently I have
-experimented with natural language models, of both the generation (GPT) and
-understanding (BERT) varieties. -->
 
 My pure math research focused on birational geometry and singularities, mostly in
 positive and mixed characteristic.
